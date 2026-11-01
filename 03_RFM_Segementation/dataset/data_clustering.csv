@@ -1,0 +1,794 @@
+Customer ID,Customer Name,Recency,Frequency,Monetary,Avg_Item_Price,Unique_Product_Count,Fav_Product,City,State,Region,Furniture_Count,Office Supplies_Count,Technology_Count,First Class_Count,Same Day_Count,Second Class_Count,Standard Class_Count,Consumer_Count,Corporate_Count,Home Office_Count,Cluster
+AA-10315,Alex Avila,184,5,5563.5599999999995,505.7781818181818,11,"Acco Banker's Clasps, 5 3/4""-Long",Round Rock,Texas,Central,1,8,2,1,0,0,10,11,0,0,0
+AA-10375,Allen Armold,19,9,1056.39,70.426,15,"ACCOHIDE 3-Ring Binder, Blue, 1""",Atlanta,Georgia,East,1,11,3,4,0,3,8,15,0,0,2
+AA-10480,Andrew Allen,259,4,1790.512,149.20933333333332,12,"Carina 42""Hx23 3/4""W Media Storage Unit",Detroit,Michigan,Central,2,8,2,0,1,0,11,12,0,0,0
+AA-10645,Anna Andreadi,55,6,5086.935,282.6075,18,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",Georgetown,California,East,8,8,2,7,0,0,11,18,0,0,0
+AB-10015,Aaron Bergman,415,3,886.156,147.69266666666667,6,Akro Stacking Bins,Seattle,Washington,Central,2,3,1,5,0,0,1,6,0,0,1
+AB-10060,Adam Bellavance,54,8,7755.62,430.86777777777775,17,Xerox 1881,New York City,New York,East,3,12,3,8,0,0,10,0,0,18,2
+AB-10105,Adrian Barton,41,10,14473.571,723.67855,20,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Houston,Texas,Central,3,11,6,4,0,0,16,20,0,0,2
+AB-10150,Aimee Bixby,41,5,966.71,80.55916666666667,12,Acme Elite Stainless Steel Scissors,Yonkers,New York,Central,1,9,2,0,0,10,2,12,0,0,0
+AB-10165,Alan Barnes,25,8,1113.838,79.55985714285714,14,Belkin Standard 104 key USB Keyboard,Los Angeles,California,West,2,10,2,3,0,1,10,14,0,0,2
+AB-10255,Alejandro Ballentine,166,9,914.5319999999999,65.32371428571427,14,Acme Elite Stainless Steel Scissors,Carlsbad,New Mexico,West,1,9,4,1,0,1,12,0,0,14,2
+AB-10600,Ann Blume,50,4,1515.862,189.48275,8,Adtran 1202752G1,Tucson,Arizona,West,2,3,3,6,0,0,2,0,8,0,0
+AC-10420,Alyssa Crouse,232,3,925.8,185.16,5,Fellowes Bankers Box Stor/Drawer Steel Plus,Houston,California,Central,1,4,0,0,0,2,3,0,5,0,0
+AC-10450,Amy Cox,11,7,5527.846,614.205111111111,9,Acco Suede Grain Vinyl Round Ring Binder,New York City,Florida,South,0,7,2,4,0,1,4,9,0,0,2
+AC-10615,Ann Chong,6,5,2537.686,140.98255555555556,18,"ACCOHIDE 3-Ring Binder, Blue, 1""",New York City,New York,East,4,10,4,0,1,0,17,0,18,0,0
+AC-10660,Anna Chung,282,5,657.316,109.55266666666667,6,Fellowes Officeware Wire Shelving,Parma,California,Central,1,3,2,2,0,2,2,6,0,0,0
+AD-10180,Alan Dominguez,29,8,6106.879999999999,508.9066666666666,12,"1/4 Fold Party Design Invitations & White Envelopes, 24 8-1/2"" X 11"" Cards, 25 Env./Pack",Great Falls,Montana,East,3,7,2,0,0,3,9,0,0,12,2
+AF-10870,Art Ferguson,41,7,2052.908,128.30675,16,AT&T 841000 Phone,Passaic,New Jersey,East,2,10,4,0,0,0,16,16,0,0,0
+AF-10885,Art Foster,415,4,861.5649999999999,123.08071428571428,7,Acco Perma 4000 Stacking Storage Drawers,Louisville,Ohio,East,2,4,1,0,0,4,3,7,0,0,1
+AG-10270,Alejandro Grove,278,5,2582.898,184.4927142857143,14,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",Omaha,Nebraska,Central,2,9,3,2,0,2,10,14,0,0,0
+AG-10300,Aleksandra Gannaway,118,4,367.548,73.5096,5,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",Los Angeles,California,West,2,3,0,1,0,0,4,0,5,0,0
+AG-10330,Alex Grayson,8,5,660.972,73.44133333333333,9,"Cardinal HOLDit! Binder Insert Strips,Extra Strips",Houston,Texas,Central,1,6,2,1,0,5,3,9,0,0,0
+AG-10390,Allen Goldenen,114,5,200.945,25.118125,8,Acco 3-Hole Punch,Cincinnati,Ohio,East,1,7,0,3,1,2,2,8,0,0,0
+AG-10495,Andrew Gjertsen,78,7,1419.247,101.37478571428572,14,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",Philadelphia,Pennsylvania,Central,2,10,2,1,2,2,9,0,14,0,0
+AG-10525,Andy Gerbode,844,4,1455.038,161.6708888888889,9,AT&T 1070 Corded Phone,New York City,New York,East,1,5,3,0,0,0,9,0,9,0,1
+AG-10675,Anna Gayman,97,7,3489.0396,232.60264,15,Avery Durable Poly Binders,Houston,Texas,South,3,9,3,2,0,7,6,15,0,0,2
+AG-10765,Anthony Garverick,77,4,170.584,34.1168,5,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",Chicago,Illinois,Central,0,5,0,0,1,0,4,0,0,5,0
+AG-10900,Arthur Gainer,96,10,4510.7970000000005,214.79985714285718,21,Acme Forged Steel Scissors with Black Enamel Handles,Tucson,California,West,8,11,2,6,0,2,13,21,0,0,2
+AH-10030,Aaron Hawkins,12,7,1744.7,158.60909090909092,11,"ACCOHIDE 3-Ring Binder, Blue, 1""",San Francisco,California,East,2,7,2,3,0,3,5,0,11,0,0
+AH-10075,Adam Hart,34,10,3250.337,162.51685,20,"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 ¾” x 11”",Cranston,Rhode Island,East,6,13,1,9,3,3,5,0,20,0,2
+AH-10120,Adrian Hane,60,7,1735.5140000000001,108.46962500000001,16,Avery White Multi-Purpose Labels,Salem,Oregon,West,2,10,4,9,1,1,5,0,0,16,0
+AH-10195,Alan Haines,55,4,1587.452,198.4315,8,36X48 HARDFLOOR CHAIRMAT,Tamarac,Florida,East,2,6,0,1,0,5,2,0,8,0,0
+AH-10210,Alan Hwang,6,9,4805.344,369.64184615384613,13,Avery Durable Slant Ring Binders With Label Holder,New York City,California,West,0,9,4,4,0,0,9,13,0,0,2
+AH-10465,Amy Hunt,230,5,2495.3916,311.92395,8,"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",Dallas,Texas,Central,2,4,2,0,0,4,4,8,0,0,0
+AH-10585,Angele Hood,21,4,738.504,147.70080000000002,5,Global Comet Stacking Armless Chair,Seattle,Washington,West,2,2,1,0,1,2,2,5,0,0,0
+AH-10690,Anna Häberlin,410,12,7888.294,342.9693043478261,23,Avery 473,Plantation,Florida,South,7,11,5,1,0,2,20,0,23,0,2
+AI-10855,Arianne Irving,13,10,4375.786,243.09922222222224,18,Alphabetical Labels for Top Tab Filing,Los Angeles,California,West,3,12,3,1,1,8,8,18,0,0,2
+AJ-10780,Anthony Jacobs,75,7,4867.344,324.4896,15,ACCOHIDE Binder by Acco,Baltimore,Maryland,East,3,11,1,6,0,1,8,0,15,0,2
+AJ-10795,Anthony Johnson,166,7,4501.391,214.35195238095235,21,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",San Francisco,California,West,6,10,5,0,0,7,14,0,21,0,2
+AJ-10945,Ashley Jarboe,121,6,1829.8960000000002,203.3217777777778,9,Avery 491,Detroit,Michigan,Central,1,5,3,1,0,3,5,9,0,0,0
+AJ-10960,Astrea Jones,74,3,629.2479999999999,125.84959999999998,5,"Cardinal HOLDit! Binder Insert Strips,Extra Strips",New York City,New York,East,0,5,0,0,0,1,4,5,0,0,0
+AM-10360,Alice McCarthy,28,5,814.012,67.83433333333333,12,3-ring staple pack,Los Angeles,California,West,1,10,1,2,5,1,4,0,12,0,0
+AM-10705,Anne McFarland,162,8,5664.022,257.4555454545455,22,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Cranston,Rhode Island,South,8,12,2,0,0,8,14,22,0,0,2
+AO-10810,Anthony O'Donnell,501,1,161.28,161.28,1,"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",Los Angeles,California,West,1,0,0,1,0,0,0,0,1,0,1
+AP-10720,Anne Pryor,41,6,545.932,54.5932,10,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",New York City,New York,East,3,5,2,1,2,0,7,0,0,10,0
+AP-10915,Arthur Prichep,98,10,3323.556,107.21148387096774,30,Xerox 1988,Los Angeles,California,West,6,21,4,3,1,5,22,31,0,0,2
+AR-10345,Alex Russell,111,4,1055.694,211.1388,5,ClearSounds CSC500 Amplified Spirit Phone Corded phone,Philadelphia,Pennsylvania,East,2,1,2,1,0,3,1,0,5,0,0
+AR-10405,Allen Rosenblatt,125,5,2236.1279999999997,319.4468571428571,7,Bevis Round Conference Room Tables and Bases,Los Angeles,California,East,3,2,2,0,1,2,4,0,7,0,0
+AR-10510,Andrew Roberts,14,5,264.864,37.837714285714284,7,Angle-D Ring Binders,Philadelphia,Pennsylvania,East,0,5,2,0,1,0,6,7,0,0,0
+AR-10540,Andy Reiter,6,6,6608.448,734.272,9,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Jackson,California,Central,2,6,1,0,0,6,3,9,0,0,2
+AR-10570,Anemone Ratner,534,1,88.15,44.075,2,Cardinal Holdit Data Disk Pockets,Columbus,Georgia,South,1,1,0,0,0,0,2,2,0,0,1
+AR-10825,Anthony Rawles,58,8,4523.336,347.9489230769231,13,3M Hangers With Command Adhesive,New York City,New York,West,5,5,3,0,0,7,6,0,13,0,2
+AS-10045,Aaron Smayling,88,7,3050.692,305.0692,10,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",Jacksonville,North Carolina,South,2,6,2,6,0,0,4,0,10,0,0
+AS-10090,Adam Shillingsburg,28,9,3255.31,130.2124,24,Binder Posts,New York City,New York,East,5,18,2,7,0,2,16,25,0,0,2
+AS-10135,Adrian Shami,41,2,58.82,19.606666666666666,3,Avery Printable Repositionable Plastic Tabs,New York City,New York,East,1,2,0,2,0,0,1,0,0,3,0
+AS-10225,Alan Schoenberger,22,5,4260.784,327.75261538461535,13,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",Provo,Utah,West,3,8,2,0,0,12,1,0,13,0,0
+AS-10240,Alan Shonely,192,5,503.968,50.3968,10,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Tampa,Florida,South,2,8,0,0,0,3,7,10,0,0,0
+AS-10285,Alejandro Savely,19,6,3214.236,401.7795,8,Anker Astro Mini 3000mAh Ultra-Compact Portable Charger,Dallas,California,Central,2,4,2,3,0,1,4,0,8,0,0
+AS-10630,Ann Steele,92,7,833.398,69.44983333333333,10,Avery 474,Boynton Beach,Florida,South,2,9,1,0,0,0,12,0,0,12,0
+AT-10435,Alyssa Tate,21,5,1166.0720000000001,145.75900000000001,8,Bevis 36 x 72 Conference Tables,Los Angeles,California,West,2,5,1,1,0,5,2,0,0,8,0
+AT-10735,Annie Thurman,13,10,3831.8639999999996,239.49149999999997,16,"Ampad Evidence Wirebond Steno Books, 6"" x 9""",New York City,New York,East,1,12,3,1,2,3,10,16,0,0,2
+AW-10840,Anthony Witt,20,4,649.3760000000001,81.17200000000001,8,Avery 505,Bakersfield,California,West,1,5,2,4,0,1,3,8,0,0,0
+AW-10930,Arthur Wiediger,46,7,2852.9680000000003,178.31050000000002,16,APC 7 Outlet Network SurgeArrest Surge Protector,Houston,Texas,Central,3,10,3,2,0,7,7,0,0,16,0
+AY-10555,Andy Yotov,14,4,497.014,49.7014,10,C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,Los Angeles,California,West,5,4,1,1,0,4,5,0,10,0,0
+AZ-10750,Annie Zypern,160,6,1622.018,135.16816666666668,12,Anker Astro 15000mAh USB Portable Charger,San Diego,California,West,2,8,2,0,3,1,8,12,0,0,0
+BB-10990,Barry Blumstein,105,5,744.34,93.0425,8,Aastra 6757i CT Wireless VoIP phone,Inglewood,California,West,0,7,1,2,0,2,4,0,8,0,0
+BB-11545,Brenda Bowman,28,9,6765.728,338.2864,20,Anker Astro 15000mAh USB Portable Charger,Fort Worth,Texas,Central,5,12,3,0,3,1,16,0,20,0,2
+BC-11125,Becky Castell,202,9,2933.676,162.982,18,Boston 16801 Nautilus Battery Pencil Sharpener,Peoria,California,West,6,9,3,5,1,8,4,0,0,18,2
+BD-11320,Bill Donatelli,33,12,5718.521,300.9747894736842,19,AT&T 841000 Phone,Los Angeles,California,West,5,9,5,0,0,4,15,19,0,0,2
+BD-11500,Bradley Drucker,35,6,4411.2429999999995,441.12429999999995,10,Artistic Insta-Plaque,Chicago,Illinois,Central,2,6,2,2,0,0,8,10,0,0,0
+BD-11560,Brendan Dodson,278,2,320.54,80.135,4,Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,Fresno,California,West,0,3,1,0,0,0,4,0,0,4,1
+BD-11605,Brian Dahlen,97,6,2783.189,185.54593333333332,15,4009 Highlighters by Sanford,Monroe,Louisiana,South,4,9,2,1,0,2,12,15,0,0,0
+BD-11620,Brian DeCherney,69,6,1538.11,192.26375,8,AT&T 17929 Lendline Telephone,Lawton,California,East,2,4,2,1,3,1,3,8,0,0,0
+BD-11635,Brian Derr,9,3,582.646,116.52919999999999,5,Avery Arch Ring Binders,New York City,New York,East,1,3,1,1,0,4,0,5,0,0,0
+BD-11725,Bruce Degenhardt,93,6,1526.5,152.65,10,Acrylic Self-Standing Desk Frames,Lafayette,California,South,5,5,0,3,0,3,4,10,0,0,0
+BD-11770,Bryan Davis,327,6,658.466,65.8466,10,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",Edmonds,Washington,East,1,7,2,1,0,0,9,10,0,0,0
+BE-11335,Bill Eplett,119,5,4204.6759999999995,467.18622222222217,9,Avaya 5420 Digital phone,Jackson,New York,Central,2,4,3,2,0,0,7,0,0,9,0
+BE-11410,Bobby Elias,98,5,2261.438,452.2876,5,Airmail Envelopes,Appleton,California,Central,0,4,1,2,1,0,2,5,0,0,0
+BE-11455,Brad Eason,481,5,748.026,74.8026,10,Advantus T-Pin Paper Clips,Providence,Rhode Island,East,2,6,2,0,0,6,4,0,0,10,1
+BF-10975,Barbara Fisher,91,7,599.798,46.13830769230769,13,9-3/4 Diameter Round Wall Clock,Charlotte,North Carolina,South,2,11,0,1,0,3,9,0,13,0,0
+BF-11005,Barry Franz,39,4,1333.88,133.388,10,"Acco Six-Outlet Power Strip, 4' Cord Length",Pasadena,California,West,2,6,2,0,0,0,10,0,0,10,0
+BF-11020,Barry Französisch,74,8,2888.506,137.54790476190476,21,Acco Hot Clips Clips to Go,Arlington,Texas,Central,6,10,5,6,1,12,2,0,21,0,2
+BF-11080,Bart Folk,25,3,272.95,45.49166666666667,6,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",Baltimore,Maryland,East,0,6,0,3,0,2,1,6,0,0,0
+BF-11170,Ben Ferrer,16,11,5907.972,218.81377777777777,27,"#10 White Business Envelopes,4 1/8 x 9 1/2",Los Angeles,California,West,5,14,8,0,0,8,19,0,0,27,2
+BF-11215,Benjamin Farhat,65,4,1585.162,198.14525,8,"Bush Cubix Conference Tables, Fully Assembled",Albuquerque,New Mexico,West,2,4,2,0,0,5,3,0,0,8,0
+BF-11275,Beth Fritzler,57,3,791.9899999999999,197.99749999999997,4,Belkin 7-Outlet SurgeMaster Home Series,Tucson,Arizona,South,1,2,1,0,0,0,4,0,4,0,0
+BG-11035,Barry Gonzalez,28,8,2798.948,233.24566666666666,12,Apple EarPods with Remote and Mic,Austin,Texas,South,1,9,2,2,1,0,9,12,0,0,2
+BG-11695,Brooke Gillingham,36,6,1874.172,234.2715,8,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",New York City,New York,East,2,5,1,1,1,0,6,0,8,0,0
+BG-11740,Bruce Geld,57,6,1006.356,143.76514285714285,7,Avery 476,Los Angeles,California,West,3,3,1,3,0,0,4,7,0,0,0
+BH-11710,Brosina Hoffman,23,8,6255.351,260.63962499999997,24,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Los Angeles,California,South,4,13,7,4,0,0,20,24,0,0,2
+BK-11260,Berenike Kampe,77,6,659.1379999999999,41.196124999999995,16,Acme Box Cutter Scissors,Chicago,California,West,3,11,2,0,0,1,15,16,0,0,0
+BM-11140,Becky Martin,307,4,11789.63,736.851875,16,BIC Brite Liner Highlighters,San Antonio,Texas,Central,3,10,3,6,0,2,8,16,0,0,0
+BM-11575,Brendan Murry,100,6,808.162,80.81620000000001,9,"Bush Westfield Collection Bookcases, Medium Cherry Finish",Chicago,Illinois,East,4,4,2,1,0,3,6,0,10,0,0
+BM-11650,Brian Moss,33,11,7294.185,251.5236206896552,28,Adjustable Depth Letter/Legal Cart,Columbus,Indiana,Central,3,19,7,5,0,11,13,0,29,0,2
+BM-11785,Bryan Mills,218,10,1338.842,95.63157142857143,14,Acco D-Ring Binder w/DublLock,Columbus,Ohio,East,2,7,5,1,1,7,5,14,0,0,2
+BN-11470,Brad Norvell,24,4,265.296,44.216,6,Fellowes 8 Outlet Superior Workstation Surge Protector,Cary,North Carolina,South,0,4,2,0,0,2,4,0,6,0,0
+BN-11515,Bradley Nguyen,9,5,1459.344,85.84376470588235,17,Avery Non-Stick Heavy Duty View Round Locking Ring Binders,New York City,New York,East,4,13,0,0,0,1,16,17,0,0,0
+BO-11350,Bill Overfelt,137,5,2682.728,223.56066666666666,12,Advantus Plastic Paper Clips,Philadelphia,Pennsylvania,East,5,6,1,0,0,0,12,0,12,0,0
+BO-11425,Bobby Odegard,75,2,130.83,65.415,2,Large Capacity Hanging Post Binders,New York City,Kentucky,East,0,2,0,0,0,0,2,2,0,0,0
+BP-11050,Barry Pond,83,5,983.42,140.48857142857142,7,"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",Chicago,California,East,0,6,1,1,0,0,6,0,7,0,0
+BP-11095,Bart Pistole,17,12,2442.044,122.1022,19,Wi-Ex zBoost YX540 Cellular Phone Signal Booster,Los Angeles,California,West,1,14,5,7,2,3,8,0,20,0,2
+BP-11155,Becky Pak,89,6,1697.861,154.351,11,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",Paterson,New Jersey,East,2,7,2,0,0,8,3,11,0,0,0
+BP-11185,Ben Peterman,1,9,3675.861,204.2145,18,Avery 509,Arvada,Colorado,West,6,9,3,1,2,7,8,0,18,0,2
+BP-11230,Benjamin Patterson,39,5,1181.49,196.915,6,Avery Heavy-Duty EZD View Binder with Locking Rings,Broken Arrow,California,West,3,2,1,0,0,1,5,6,0,0,0
+BP-11290,Beth Paige,12,7,2475.157,154.6973125,16,Avery 494,Columbus,Illinois,Central,7,9,0,0,2,1,13,16,0,0,0
+BS-11365,Bill Shonely,558,5,10501.653,1166.8503333333333,9,"3D Systems Cube Printer, 2nd Generation, Magenta",Lakewood,New Jersey,East,4,3,2,2,1,0,6,0,9,0,1
+BS-11380,Bill Stewart,28,5,3887.834,299.06415384615383,13,Aluminum Screw Posts,Denver,Colorado,West,3,6,4,0,0,0,13,0,13,0,0
+BS-11590,Brendan Sweed,35,6,2454.928,245.4928,10,Black & Decker Filter for Double Action Dustbuster Cordless Vac BLDV7210,Columbus,Ohio,East,2,6,2,1,0,1,8,0,10,0,0
+BS-11665,Brian Stugart,582,3,3288.11,298.9190909090909,11,36X48 HARDFLOOR CHAIRMAT,San Diego,California,West,5,4,2,0,0,0,11,11,0,0,1
+BS-11755,Bruce Stewart,1,7,2562.382,183.0272857142857,14,APC 7 Outlet Network SurgeArrest Surge Protector,Detroit,Michigan,West,5,8,1,2,0,0,12,14,0,0,0
+BS-11800,Bryan Spruell,265,2,949.43,118.67875,8,Avery File Folder Labels,New York City,New York,East,0,8,0,6,0,0,2,0,0,8,0
+BT-11305,Beth Thompson,336,5,2567.656,285.2951111111111,9,Acco Hanging Data Binders,San Gabriel,California,West,4,4,1,0,0,2,7,0,0,9,1
+BT-11395,Bill Tyler,302,6,2186.6130000000003,218.66130000000004,10,3M Replacement Filter for Office Air Cleaner for 20' x 33' Room,Los Angeles,California,West,3,5,2,2,0,0,8,0,10,0,0
+BT-11440,Bobby Trafton,560,4,603.876,86.268,7,"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",New York City,New York,East,4,3,0,1,0,1,5,7,0,0,1
+BT-11485,Brad Thomas,659,2,415.19599999999997,138.39866666666666,3,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",Clinton,Maryland,East,1,2,0,0,1,0,2,0,0,3,1
+BT-11530,Bradley Talbott,91,5,2684.4919999999997,268.44919999999996,10,4009 Highlighters by Sanford,Los Angeles,California,West,1,5,4,0,0,6,4,0,0,10,0
+BT-11680,Brian Thompson,20,7,3196.752,159.8376,20,3M Replacement Filter for Office Air Cleaner for 20' x 33' Room,Clinton,Maryland,East,4,14,2,1,2,0,17,20,0,0,2
+BV-11245,Benjamin Venier,334,5,1523.273,108.80521428571429,14,9-3/4 Diameter Round Wall Clock,Des Moines,Iowa,Central,3,9,2,4,0,0,10,0,14,0,1
+BW-11065,Barry Weirich,212,3,385.516,128.50533333333334,3,"Executive Impressions 13"" Clairmont Wall Clock",New York City,New York,East,1,2,0,0,0,0,3,3,0,0,0
+BW-11110,Bart Watters,121,8,4750.358,279.4328235294118,17,"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6” x 11”",New York City,New York,East,4,10,3,2,0,2,13,0,17,0,2
+BW-11200,Ben Wallace,203,6,1738.406,173.8406,10,"Advantus Push Pins, Aluminum Head",New York City,New York,East,3,6,1,1,0,1,8,10,0,0,0
+CA-11965,Carol Adams,96,6,3789.7228,378.97228,10,Avery Poly Binder Pockets,Port Arthur,Texas,Central,3,5,2,2,0,6,2,0,10,0,0
+CA-12055,Cathy Armstrong,401,5,1679.7240000000002,167.97240000000002,10,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Houston,Texas,Central,1,7,2,2,0,1,7,0,0,10,1
+CA-12265,Christina Anderson,56,8,2638.3272,164.89545,16,Avery 481,Chattanooga,California,South,3,8,5,1,2,0,13,16,0,0,2
+CA-12310,Christine Abelman,13,4,1421.954,129.26854545454546,11,AT&T 17929 Lendline Telephone,Bristol,Connecticut,East,1,6,4,0,0,0,11,0,11,0,0
+CA-12775,Cynthia Arntzen,120,7,3041.566,178.9156470588235,17,Acme Titanium Bonded Scissors,Philadelphia,Pennsylvania,East,5,9,3,4,1,6,6,17,0,0,0
+CB-12025,Cassandra Brandow,47,9,5730.669,260.4849545454545,21,"Hot File 7-Pocket, Floor Stand",Los Angeles,California,West,4,16,2,0,2,2,18,22,0,0,2
+CB-12415,Christy Brittain,26,8,1949.2000000000003,162.43333333333337,12,"ACCOHIDE 3-Ring Binder, Blue, 1""",Chicago,Illinois,East,1,10,1,3,1,0,8,12,0,0,2
+CB-12535,Claudia Bergmann,197,8,4246.4555,223.49765789473685,19,4009 Highlighters,Camarillo,California,East,6,11,2,0,4,3,12,0,19,0,2
+CC-12100,Chad Cunningham,457,5,1685.8890000000001,140.49075000000002,12,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",Los Angeles,California,West,2,5,5,5,0,0,7,0,0,12,1
+CC-12145,Charles Crestani,106,7,2471.65,224.69545454545457,11,Bady BDG101FRU Card Printer,San Diego,California,West,3,7,1,4,0,1,6,11,0,0,0
+CC-12220,Chris Cortes,20,11,3670.258,174.77419047619046,21,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",Seattle,Washington,West,4,11,6,7,2,3,9,21,0,0,2
+CC-12370,Christopher Conant,43,5,12129.072,1102.6429090909091,11,Avaya 5410 Digital phone,Philadelphia,Pennsylvania,East,3,5,3,0,0,4,7,11,0,0,2
+CC-12430,Chuck Clark,0,10,2870.05,151.05526315789476,18,Logitech G19 Programmable Gaming Keyboard,New York City,California,East,5,10,4,2,0,7,10,0,0,19,2
+CC-12475,Cindy Chapman,39,9,1659.438,127.64907692307693,13,Astroparche Fine Business Paper,Houston,California,East,1,9,3,3,2,1,7,13,0,0,2
+CC-12550,Clay Cheatham,27,3,113.832,28.458,4,Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5,Los Angeles,California,West,0,3,1,1,0,0,3,4,0,0,0
+CC-12610,Corey Catlett,34,7,2540.6310000000003,211.71925000000002,12,Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener,Denver,Colorado,South,4,6,2,6,0,3,3,0,12,0,0
+CC-12670,Craig Carreira,29,7,2269.7015,162.12153571428573,14,Acco 3-Hole Punch,Tampa,Florida,South,2,8,4,0,0,12,2,14,0,0,0
+CC-12685,Craig Carroll,798,4,2854.1150000000002,237.8429166666667,12,Belkin 5 Outlet SurgeMaster Power Centers,Henderson,Kentucky,South,0,10,2,0,0,0,12,12,0,0,1
+CD-11920,Carlos Daly,40,5,2033.968,225.99644444444445,9,Belkin 8 Outlet Surge Protector,New York City,New York,East,3,5,1,4,0,0,5,9,0,0,0
+CD-11980,Carol Darley,54,3,639.766,106.62766666666666,6,Hoover Portapower Portable Vacuum,Tyler,Texas,Central,1,4,1,0,0,0,6,6,0,0,0
+CD-12280,Christina DeMoss,42,2,1205.584,92.73723076923078,13,Anker Astro 15000mAh USB Portable Charger,New York City,New York,East,3,8,2,5,0,8,0,13,0,0,0
+CD-12790,Cynthia Delaney,399,5,1860.732,124.0488,15,Staples,Oklahoma City,California,West,1,12,2,4,0,0,11,0,0,15,1
+CG-12040,Catherine Glotzbach,49,6,904.4680000000001,100.49644444444445,9,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",Philadelphia,Pennsylvania,East,0,8,1,0,0,1,8,0,0,9,0
+CG-12520,Claire Gute,338,3,1148.78,229.756,5,Bush Somerset Collection Bookcase,Dallas,Texas,Central,3,2,0,1,2,2,0,5,0,0,1
+CH-12070,Cathy Hwang,690,3,1537.236,384.309,4,Panasonic KX T7736-B Digital phone,Philadelphia,Pennsylvania,East,0,2,2,0,0,2,2,0,0,4,1
+CJ-11875,Carl Jackson,365,1,16.52,16.52,1,Newell 31,Philadelphia,Pennsylvania,East,0,1,0,1,0,0,0,0,1,0,1
+CJ-12010,Caroline Jumper,189,8,11164.974,558.2487,20,12 Colored Short Pencils,New York City,New York,East,9,8,3,0,0,0,20,20,0,0,2
+CK-12205,Chloris Kastensmidt,39,13,3154.855,98.58921875,32,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Columbus,Texas,East,5,21,6,6,3,2,21,32,0,0,2
+CK-12325,Christine Kargatis,120,5,2945.321,245.44341666666665,12,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",Troy,Ohio,East,6,5,1,5,0,0,7,0,0,12,0
+CK-12595,Clytie Kelty,43,11,2372.75,94.91,24,Plantronics S12 Corded Telephone Headset System,Little Rock,Arkansas,East,5,15,5,14,0,3,8,25,0,0,2
+CK-12760,Cyma Kinney,82,9,1582.109,113.0077857142857,14,Acme Office Executive Series Stainless Steel Trimmers,New York City,New York,East,3,10,1,1,0,2,11,0,14,0,2
+CL-11890,Carl Ludwig,106,4,1262.0140000000001,180.28771428571432,7,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",Everett,Massachusetts,East,2,4,1,0,1,5,1,7,0,0,0
+CL-12565,Clay Ludtke,284,12,10880.546,388.5909285714286,28,2300 Heavy-Duty Transfer File Systems by Perma,Los Angeles,California,West,4,18,6,1,6,2,19,28,0,0,2
+CL-12700,Craig Leslie,260,4,2335.5860000000002,333.6551428571429,7,Acco 3-Hole Punch,Colorado Springs,Colorado,West,2,4,1,1,0,0,6,0,0,7,0
+CM-11815,Candace McMahon,131,6,1673.888,167.3888,10,Acme Design Stainless Steel Bent Scissors,Seattle,Washington,West,1,5,4,1,0,5,4,0,10,0,0
+CM-11935,Carlos Meador,707,2,565.392,141.348,4,Eldon Pizzaz Desk Accessories,Fayetteville,North Carolina,South,2,1,1,0,0,1,3,4,0,0,1
+CM-12115,Chad McGuire,8,4,1661.6100000000001,237.37285714285716,7,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",New York City,New York,East,2,2,3,1,0,3,3,7,0,0,0
+CM-12160,Charles McCrossin,26,6,2533.314,361.902,7,Acco Perma 2700 Stacking Storage Drawers,Philadelphia,Pennsylvania,East,1,3,3,1,0,1,5,7,0,0,0
+CM-12190,Charlotte Melton,8,6,1475.144,210.73485714285715,7,"Eldon Base for stackable storage shelf, platinum",Rochester,California,Central,2,4,1,2,3,0,2,7,0,0,0
+CM-12235,Chris McAfee,385,5,2305.712,288.214,8,DIXON Ticonderoga Erasable Checking Pencils,Little Rock,Arkansas,South,1,6,1,0,0,4,4,8,0,0,1
+CM-12385,Christopher Martinez,37,4,8954.02,895.402,10,Avery File Folder Labels,Atlanta,Georgia,South,1,8,1,0,0,1,9,10,0,0,0
+CM-12445,Chuck Magee,436,3,287.99,31.99888888888889,9,Advantus Rolling Storage Box,Redlands,California,West,1,8,0,0,4,3,2,9,0,0,1
+CM-12655,Corinna Mitchell,27,5,5890.508,736.3135,8,"Alliance Super-Size Bands, Assorted Sizes",Los Angeles,California,West,2,2,4,1,0,1,6,0,0,8,0
+CM-12715,Craig Molinari,1034,4,3984.4524,306.49633846153847,13,"Acco Six-Outlet Power Strip, 4' Cord Length",Huntsville,Texas,Central,4,7,2,2,0,0,11,0,13,0,1
+CP-12085,Cathy Prescott,82,8,5402.254000000001,385.8752857142858,14,Advantus Rolling Drawer Organizers,Springfield,Missouri,Central,4,8,2,5,0,7,2,0,14,0,2
+CP-12340,Christine Phan,160,7,5817.187,415.51335714285716,14,Angle-D Ring Binders,New York City,New York,East,3,9,2,1,0,0,13,0,14,0,2
+CR-12580,Clay Rozendal,57,4,2148.852,358.142,6,3-ring staple pack,Elmhurst,California,West,1,4,1,2,0,1,3,0,0,6,0
+CR-12625,Corey Roper,470,3,475.9,118.975,4,Boston Heavy-Duty Trimline Electric Pencil Sharpeners,Lakewood,New Jersey,East,1,3,0,1,0,1,2,0,0,4,1
+CR-12730,Craig Reiter,78,4,1600.55,266.7583333333333,6,Airmail Envelopes,Columbus,Ohio,East,1,5,0,1,0,1,4,6,0,0,0
+CR-12820,Cyra Reiten,85,3,1397.8724,199.69605714285714,7,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",Houston,New York,Central,1,4,2,3,0,0,4,0,0,7,0
+CS-11845,Cari Sayre,91,5,1278.954,159.86925,8,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",Seattle,Washington,West,1,6,1,5,0,2,1,0,8,0,0
+CS-11860,Cari Schnelling,162,6,537.632,76.80457142857142,7,Avery Printable Repositionable Plastic Tabs,New York City,New York,East,0,6,1,0,1,2,4,7,0,0,0
+CS-11950,Carlos Soltero,25,11,3036.547,138.02486363636365,22,Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,Philadelphia,Pennsylvania,East,7,11,4,2,2,2,16,22,0,0,2
+CS-12130,Chad Sievert,489,4,884.64,126.37714285714286,7,AT&T 17929 Lendline Telephone,Los Angeles,California,West,1,5,1,0,0,0,7,7,0,0,1
+CS-12175,Charles Sheldon,232,5,844.4580000000001,105.55725000000001,8,3M Organizer Strips,San Francisco,California,West,2,6,0,0,0,1,7,0,8,0,0
+CS-12250,Chris Selesnick,26,12,2754.216,98.36485714285713,28,"#10 Gummed Flap White Envelopes, 100/Box",San Diego,California,West,2,21,5,3,2,10,13,0,28,0,2
+CS-12355,Christine Sundaresam,6,11,3202.1620000000003,145.5528181818182,22,Acme Forged Steel Scissors with Black Enamel Handles,Long Beach,Georgia,South,2,15,5,3,0,3,16,22,0,0,2
+CS-12400,Christopher Schild,2,9,3651.8585000000003,260.8470357142857,13,Bretford Rectangular Conference Table Tops,Tampa,Florida,South,4,8,2,2,0,3,9,0,0,14,2
+CS-12460,Chuck Sachs,27,2,550.644,91.774,6,AT&T 1080 Corded phone,New York City,New York,East,1,3,2,0,0,0,6,6,0,0,0
+CS-12490,Cindy Schnelling,424,4,970.1105,121.2638125,8,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",Toledo,Ohio,East,1,4,3,1,0,0,7,0,8,0,1
+CS-12505,Cindy Stewart,58,6,5690.054999999999,632.2283333333332,9,Acme Forged Steel Scissors with Black Enamel Handles,Lancaster,California,West,0,6,3,0,0,1,8,9,0,0,0
+CT-11995,Carol Triggs,96,8,3241.898,180.10544444444446,18,3.6 Cubic Foot Counter Height Office Refrigerator,Tucson,Arizona,Central,5,11,2,5,0,2,11,18,0,0,2
+CV-12295,Christina VanderZanden,254,5,2830.6279999999997,217.74061538461535,13,Acco Smartsocket Color-Coded Six-Outlet AC Adapter Model Surge Protectors,Fresno,California,Central,2,8,3,5,0,1,7,13,0,0,0
+CV-12805,Cynthia Voltz,5,9,2370.3136,124.75334736842105,19,Avery 493,Austin,Texas,Central,5,12,2,5,0,4,10,0,19,0,2
+CW-11905,Carl Weiss,22,6,1136.592,103.32654545454547,11,Acco Economy Flexible Poly Round Ring Binder,Huntsville,California,West,0,9,2,0,0,6,5,0,0,11,0
+CY-12745,Craig Yedwab,60,7,2004.0819999999999,200.4082,10,"#10 Gummed Flap White Envelopes, 100/Box",Chicago,California,West,1,6,3,1,1,3,5,0,10,0,0
+Co-12640,Corey-Lock,549,5,1300.076,162.5095,8,Avery 488,Lawton,Illinois,Central,1,6,1,0,0,1,7,8,0,0,1
+DA-13450,Dianna Arnett,352,4,156.76,19.595,8,12 Colored Short Pencils,Lancaster,Ohio,East,1,6,1,0,0,2,6,0,0,8,1
+DB-12910,Daniel Byrd,21,8,2171.599,180.96658333333335,12,Advantus Panel Wall Certificate Holder - 8.5x11,Lake Forest,California,South,5,6,1,0,0,5,7,0,0,12,2
+DB-12970,Darren Budd,241,4,2469.6672,246.96671999999998,10,Acco Side-Punched Conventional Columnar Pads,Houston,Texas,Central,4,5,1,0,0,3,7,0,10,0,0
+DB-13060,Dave Brooks,16,6,4151.51,415.151,10,Avaya 5420 Digital phone,Skokie,Illinois,Central,3,4,3,2,4,2,2,10,0,0,0
+DB-13120,David Bremer,48,7,2973.094,212.36385714285714,14,DAX Black Cherry Wood-Tone Poster Frame,Rochester,California,East,2,10,2,3,0,1,10,0,14,0,0
+DB-13210,Dean Braden,9,10,2332.5769999999998,111.07509523809523,21,"6"" Cubicle Wall Clock, Black",Detroit,Michigan,Central,4,12,5,2,1,4,14,21,0,0,2
+DB-13270,Deborah Brumfield,53,8,4655.897,358.14592307692305,13,Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,Providence,California,East,3,7,3,1,0,4,8,0,0,13,2
+DB-13360,Dennis Bolton,264,5,1081.466,180.24433333333332,6,Cardinal EasyOpen D-Ring Binders,Waterbury,Connecticut,East,1,4,1,0,0,1,5,0,0,6,0
+DB-13405,Denny Blanton,187,4,1711.692,122.26371428571429,14,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",New York City,New York,East,1,9,4,0,0,12,2,14,0,0,0
+DB-13555,Dorothy Badders,107,7,3908.8028,279.2002,14,3.6 Cubic Foot Counter Height Office Refrigerator,Newark,Delaware,South,3,10,1,2,0,0,12,0,14,0,2
+DB-13615,Doug Bickford,33,7,1989.05,180.82272727272726,11,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",Los Angeles,California,West,0,10,1,0,0,5,6,11,0,0,0
+DB-13660,Duane Benoit,12,7,1155.202,115.5202,10,"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",Los Angeles,California,East,2,7,1,1,0,1,8,10,0,0,0
+DC-12850,Dan Campbell,37,9,3336.168,185.34266666666667,18,"#10 White Business Envelopes,4 1/8 x 9 1/2",Memphis,Tennessee,South,3,14,1,4,2,2,10,18,0,0,2
+DC-13285,Debra Catini,23,5,1174.618,167.8025714285714,7,DAX Wood Document Frame.,Cottage Grove,Florida,South,2,3,2,0,2,0,5,7,0,0,0
+DD-13570,Dorothy Dickinson,41,6,269.542,29.949111111111108,9,"Adams ""While You Were Out"" Message Pads",Los Angeles,California,Central,0,8,1,1,0,0,8,9,0,0,0
+DE-13255,Deanra Eno,718,5,2550.874,283.43044444444445,9,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",Los Angeles,Ohio,East,2,6,1,0,0,6,3,0,0,9,1
+DF-13135,David Flashing,699,3,2390.534,398.42233333333337,6,Avery 512,Rockford,Illinois,Central,1,4,1,0,0,1,5,6,0,0,1
+DG-13300,Deirdre Greer,32,5,3195.818,399.47725,8,"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",Philadelphia,Pennsylvania,East,3,4,1,3,1,0,4,0,8,0,0
+DH-13075,Dave Hallsten,277,5,3487.1980000000003,193.73322222222225,18,Avery Heavy-Duty EZD View Binder with Locking Rings,Fairfield,California,West,3,11,4,7,0,2,9,0,18,0,0
+DH-13675,Duane Huffman,775,4,1043.096,94.8269090909091,11,12-1/2 Diameter Round Wall Clock,Miami,Florida,South,3,7,1,0,4,0,7,0,0,11,1
+DJ-13420,Denny Joy,637,4,2012.52,402.504,5,DAX Natural Wood-Tone Poster Frame,San Francisco,California,West,4,1,0,1,0,2,2,0,5,0,1
+DJ-13510,Don Jones,48,8,2501.688,192.43753846153848,13,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Little Rock,Arkansas,South,4,7,2,3,0,1,9,0,13,0,2
+DJ-13630,Doug Jacobs,12,3,3356.398,419.54975,8,Advantus Rolling Storage Box,New York City,New York,East,1,6,1,0,0,1,7,8,0,0,0
+DK-12835,Damala Kotsonis,21,12,3256.48,120.61037037037038,27,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Springfield,California,West,4,20,3,7,0,11,9,0,27,0,2
+DK-12895,Dana Kaydos,45,5,4282.176,285.4784,15,Avery Legal 4-Ring Binder,Seattle,Washington,Central,5,6,4,0,0,0,15,15,0,0,0
+DK-12985,Darren Koutras,7,5,1687.04,210.88,8,Balt Split Level Computer Training Table,Hendersonville,Tennessee,South,3,5,0,0,0,0,8,8,0,0,0
+DK-13090,Dave Kipp,42,7,2650.557,203.88899999999998,13,Avery Self-Adhesive Photo Pockets for Polaroid Photos,Clinton,Florida,East,3,7,3,4,0,0,9,13,0,0,0
+DK-13150,David Kendrick,10,2,797.832,159.5664,5,GBC Premium Transparent Covers with Diagonal Lined Pattern,New York City,New York,East,0,4,1,0,0,2,3,0,5,0,0
+DK-13225,Dean Katz,10,9,4802.394,252.75757894736844,19,3M Hangers With Command Adhesive,Philadelphia,California,East,3,14,2,0,0,9,10,0,19,0,2
+DK-13375,Dennis Kane,19,8,3318.486,144.28199999999998,23,AT&T EL51110 DECT,Seattle,Washington,West,4,13,6,3,3,12,5,23,0,0,2
+DL-12865,Dan Lawera,100,7,444.024,63.432,7,Avery 510,New York City,Florida,East,2,5,0,1,0,1,5,7,0,0,0
+DL-12925,Daniel Lacy,57,6,3272.2,233.72857142857143,14,"3D Systems Cube Printer, 2nd Generation, White",Eagan,Minnesota,Central,3,7,4,0,1,3,10,14,0,0,0
+DL-13315,Delfina Latchford,22,8,1458.258,85.77988235294117,17,AT&T 841000 Phone,New York City,New York,East,2,14,1,2,0,13,2,17,0,0,2
+DL-13330,Denise Leinenbach,57,4,585.02,73.1275,8,9-3/4 Diameter Round Wall Clock,Lawrence,Indiana,Central,1,5,2,2,0,5,1,8,0,0,0
+DL-13495,Dionis Lloyd,76,8,3539.322,294.94350000000003,12,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",Detroit,Michigan,West,2,7,3,1,1,3,7,0,12,0,2
+DM-12955,Dario Medina,114,7,1322.034,146.89266666666668,9,Acco Perma 3000 Stacking Storage Drawers,Houston,Arizona,Central,2,7,0,0,1,1,7,0,9,0,0
+DM-13015,Darrin Martin,57,7,6345.103,317.25515,19,Staple envelope,New York City,New York,East,2,13,5,2,8,9,1,20,0,0,2
+DM-13345,Denise Monton,22,8,4074.4719999999993,313.42092307692303,13,Avery Durable Binders,San Francisco,California,East,3,8,2,0,0,4,9,0,13,0,2
+DM-13525,Don Miller,481,3,1376.792,137.67919999999998,10,Advantus Panel Wall Certificate Holder - 8.5x11,New York City,New York,East,3,6,1,3,0,7,0,0,10,0,1
+DN-13690,Duane Noonan,217,7,2139.79,194.52636363636364,11,"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",Columbia,California,West,6,4,1,1,0,1,9,11,0,0,0
+DO-13435,Denny Ordway,133,9,1300.0315,100.00242307692308,13,Acco 6 Outlet Guardian Premium Plus Surge Suppressor,Columbus,Ohio,West,1,9,3,1,3,3,6,13,0,0,2
+DO-13645,Doug O'Connell,26,7,1267.316,115.21054545454545,10,"Global Value Steno Chair, Gray",Paterson,New Jersey,East,4,5,2,0,0,3,8,11,0,0,0
+DP-13000,Darren Powers,126,8,897.524,59.83493333333333,15,Avery 485,New Albany,Indiana,Central,3,11,1,0,0,1,14,15,0,0,2
+DP-13105,Dave Poirier,6,8,2215.002,158.21442857142856,14,"ACCOHIDE 3-Ring Binder, Blue, 1""",Hempstead,California,West,1,11,2,1,0,2,11,0,14,0,2
+DP-13165,David Philippe,811,2,1058.616,264.654,4,"Angle-D Binders with Locking Rings, Label Holders",New York City,New York,East,1,2,1,3,0,0,1,4,0,0,1
+DP-13390,Dennis Pardue,358,9,5480.724,391.48028571428574,14,BIC Liqua Brite Liner,North Las Vegas,California,West,1,13,0,2,2,3,7,0,0,14,2
+DR-12880,Dan Reichenbach,3,9,6528.034,272.00141666666667,24,APC 7 Outlet Network SurgeArrest Surge Protector,Inglewood,California,East,6,11,7,4,2,8,10,0,24,0,2
+DR-12940,Daniel Raglin,50,8,8350.868,642.3744615384616,13,AT&T TR1909W,Franklin,Massachusetts,East,4,7,2,0,0,3,10,0,0,13,2
+DS-13030,Darrin Sayre,93,4,1762.213,92.74805263157894,19,Acco Translucent Poly Ring Binders,Aurora,Colorado,West,3,12,4,9,0,0,10,0,0,19,0
+DS-13180,David Smith,23,9,2881.8128,144.09064,20,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Philadelphia,Pennsylvania,Central,7,10,3,2,0,1,17,0,20,0,2
+DV-13045,Darrin Van Huff,19,5,1119.483,124.387,9,Advantus Panel Wall Certificate Holder - 8.5x11,Jacksonville,Florida,South,4,4,1,2,1,1,5,0,9,0,0
+DV-13465,Dianna Vittorini,29,5,3254.487,250.34515384615386,13,AT&T SB67148 SynJ,Denver,Colorado,West,0,8,5,2,1,5,5,13,0,0,0
+DW-13195,David Wiener,69,6,1080.751,120.08344444444444,9,"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",Houston,Texas,West,4,4,1,0,0,3,6,0,9,0,0
+DW-13480,Dianna Wilson,217,5,5271.628,479.2389090909091,11,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",Lakeville,Minnesota,Central,2,6,3,3,0,5,3,0,0,11,0
+DW-13540,Don Weiss,98,5,344.08000000000004,38.23111111111112,9,Avery 511,Seattle,Texas,Central,1,8,0,0,0,5,4,9,0,0,0
+DW-13585,Dorothy Wardle,242,7,1204.854,120.4854,10,Acme Titanium Bonded Scissors,Columbus,Ohio,East,3,5,2,3,0,3,4,0,10,0,0
+Dl-13600,Dorris liebe,119,5,755.602,125.93366666666667,6,Avery 490,Seattle,Washington,West,2,4,0,0,0,1,5,0,6,0,0
+Dp-13240,Dean percer,84,11,7198.761,248.2331379310345,29,Adjustable Depth Letter/Legal Cart,Knoxville,Tennessee,South,7,17,5,13,0,0,16,0,0,29,2
+EA-14035,Erin Ashbrook,152,12,2752.441,125.11095454545453,21,Xerox 206,Columbus,Ohio,Central,3,14,5,3,1,0,18,0,22,0,2
+EB-13705,Ed Braxton,48,9,3644.978,303.7481666666667,12,3M Polarizing Light Filter Sleeves,Akron,California,Central,5,6,1,0,1,3,8,0,12,0,2
+EB-13750,Edward Becker,35,10,3236.314,161.8157,20,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",New York City,New York,East,6,10,4,3,1,3,13,0,20,0,2
+EB-13840,Ellis Ballard,90,4,964.448,137.77828571428572,7,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",Seattle,Washington,West,2,5,0,0,0,0,7,0,7,0,0
+EB-13870,Emily Burns,100,10,2767.219,251.56536363636363,11,ARKON Windshield Dashboard Air Vent Car Mount Holder,Philadelphia,Arizona,West,4,4,3,1,0,0,10,11,0,0,2
+EB-13930,Eric Barreto,161,5,944.6000000000001,134.94285714285715,7,AT&T 17929 Lendline Telephone,Saint Petersburg,California,South,2,4,1,1,0,1,5,7,0,0,0
+EB-13975,Erica Bern,0,4,1643.255,273.87583333333333,6,"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",Fairfield,California,South,0,4,2,0,0,1,5,0,6,0,0
+EB-14110,Eugene Barchas,113,6,3071.126,279.19327272727276,11,Aastra 6757i CT Wireless VoIP phone,Philadelphia,California,East,4,4,3,0,0,5,6,11,0,0,0
+EB-14170,Evan Bailliet,82,6,1186.326,169.47514285714286,7,Avery 490,Seattle,Texas,Central,1,6,0,1,1,1,4,7,0,0,0
+EC-14050,Erin Creighton,53,5,461.914,65.98771428571429,7,Case Logic 2.4GHz Wireless Keyboard,Columbus,California,East,1,5,1,2,1,0,4,7,0,0,0
+ED-13885,Emily Ducich,135,8,3484.92,248.92285714285714,14,36X48 HARDFLOOR CHAIRMAT,Houston,Texas,Central,4,7,3,4,0,2,8,0,0,14,2
+EG-13900,Emily Grady,22,5,1832.02,203.55777777777777,9,Avery 520,Oceanside,New York,East,3,5,1,6,0,2,1,9,0,0,0
+EH-13765,Edward Hooks,135,10,9940.38,368.16222222222217,27,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",Seattle,Washington,West,4,23,0,2,1,4,20,0,27,0,2
+EH-13945,Eric Hoffmann,217,8,684.1709999999999,40.24535294117646,17,Accohide Poly Flexible Ring Binders,Houston,Texas,Central,2,11,4,0,1,5,11,17,0,0,2
+EH-13990,Erica Hackney,405,6,825.95,103.24375,8,"Acco PRESSTEX Data Binder with Storage Hooks, Light Blue, 9 1/2"" X 11""",Meriden,Connecticut,East,2,4,2,1,0,1,6,8,0,0,1
+EH-14005,Erica Hernandez,2,7,1219.53,110.86636363636363,11,Avery 511,Hialeah,Arkansas,South,1,9,1,3,2,2,4,0,0,11,0
+EH-14125,Eugene Hildebrand,152,10,3082.653,171.2585,18,#10 Self-Seal White Envelopes,San Francisco,California,East,2,13,3,1,4,0,13,0,0,18,2
+EH-14185,Evan Henry,105,6,923.884,115.4855,8,Embossed Ink Jet Note Cards,Philadelphia,Pennsylvania,East,0,5,3,1,0,1,6,8,0,0,0
+EJ-13720,Ed Jacobs,302,4,2162.174,270.27175,8,Balt Split Level Computer Training Table,San Diego,California,West,3,4,1,1,0,0,7,8,0,0,0
+EJ-14155,Eva Jacobs,57,5,2656.6910000000003,332.08637500000003,8,"24 Capacity Maxi Data Binder Racks, Pearl",Franklin,Massachusetts,East,3,3,2,0,0,5,3,8,0,0,0
+EK-13795,Eileen Kiefer,44,4,1303.4779999999998,325.86949999999996,4,"Boston Electric Pencil Sharpener, Model 1818, Charcoal Black",Chicago,California,West,1,2,1,1,0,1,2,0,0,4,0
+EL-13735,Ed Ludwig,77,2,124.28,62.14,2,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",Columbia,Maryland,Central,1,1,0,0,0,0,2,0,0,2,0
+EM-13810,Eleni McCrary,132,5,2567.0099999999998,366.7157142857142,7,3-ring staple pack,New York City,California,East,3,2,2,0,3,1,3,0,7,0,0
+EM-13825,Elizabeth Moffitt,55,8,2339.598,146.224875,16,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Sioux Falls,South Dakota,Central,3,9,4,1,0,5,10,0,16,0,2
+EM-13960,Eric Murdock,151,5,933.704,155.61733333333333,5,Lenovo 17-Key USB Numeric Keypad,Quincy,Illinois,Central,0,3,3,1,0,2,3,6,0,0,0
+EM-14065,Erin Mull,47,4,228.99,38.165,6,Acco Translucent Poly Ring Binders,New York City,New York,East,1,4,1,0,0,3,3,6,0,0,0
+EM-14095,Eudokia Martin,113,4,1041.0420000000001,104.10420000000002,10,Acme Preferred Stainless Steel Scissors,Los Angeles,California,West,0,8,2,4,0,6,0,0,10,0,0
+EM-14140,Eugene Moren,48,6,4588.436,218.49695238095237,21,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",Superior,Wisconsin,West,3,11,7,5,6,0,10,0,0,21,0
+EM-14200,Evan Minnotte,158,3,366.822,91.7055,4,Avery 486,Virginia Beach,Virginia,South,1,2,1,1,0,0,3,0,0,4,0
+EN-13780,Edward Nazzal,287,4,2199.366,244.374,9,Easy-staple paper,New York City,New York,East,2,4,3,3,4,0,2,9,0,0,0
+EP-13915,Emily Phan,12,17,5478.0608,176.71163870967743,30,Xerox 1996,Houston,California,Central,6,19,6,5,0,2,24,31,0,0,2
+ER-13855,Elpida Rittenbach,421,3,1245.788,249.1576,5,BPI Conference Tables,Charlotte,North Carolina,South,1,4,0,0,0,3,2,0,5,0,1
+ES-14020,Erica Smith,40,5,3510.4579999999996,438.80724999999995,8,Avery 499,Los Angeles,California,West,2,4,2,0,0,1,7,8,0,0,0
+ES-14080,Erin Smith,28,9,4657.924,232.8962,20,AT&T CL2909,Tempe,Arizona,West,2,10,8,9,0,0,11,0,20,0,2
+FA-14230,Frank Atkinson,97,7,2984.054,175.53258823529413,17,24-Hour Round Wall Clock,Denver,California,West,5,5,7,4,0,6,7,0,17,0,0
+FC-14245,Frank Carlisle,70,7,3418.742,244.19585714285716,14,Avanti 1.7 Cu. Ft. Refrigerator,San Francisco,California,West,1,10,3,2,0,3,9,0,0,14,2
+FC-14335,Fred Chung,184,7,3889.366,388.9366,10,AT&T 17929 Lendline Telephone,Chicago,California,West,1,7,2,3,1,0,6,0,10,0,2
+FG-14260,Frank Gastineau,34,7,1383.144,125.74036363636364,11,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 9 1/2"" X 11""",Lawrence,Massachusetts,East,0,10,1,0,1,2,8,0,0,11,0
+FH-14275,Frank Hawley,37,10,4256.272,202.67961904761904,21,Aastra 6757i CT Wireless VoIP phone,La Porte,California,Central,2,15,4,1,2,11,7,0,21,0,2
+FH-14350,Fred Harton,212,4,2271.284,162.23457142857143,14,"Acco Six-Outlet Power Strip, 4' Cord Length",Atlanta,Georgia,South,1,10,3,3,0,0,11,14,0,0,0
+FH-14365,Fred Hopkins,5,8,6987.196,537.4766153846153,13,Canon PC940 Copier,Los Angeles,California,West,2,9,2,7,0,0,6,0,13,0,2
+FM-14215,Filia McAdams,7,10,2456.638,163.77586666666667,15,"Adams Phone Message Book, 200 Message Capacity, 8 1/16” x 11”",Richmond,Kentucky,South,4,9,2,1,1,5,8,0,15,0,2
+FM-14290,Frank Merwin,36,9,3736.1980000000003,186.80990000000003,20,Astroparche Fine Business Paper,San Francisco,California,West,0,16,4,1,9,0,10,0,0,20,2
+FM-14380,Fred McMath,145,9,2523.266,180.23328571428573,14,Avery 477,Aurora,Colorado,Central,1,7,6,0,0,5,9,14,0,0,2
+FO-14305,Frank Olsen,38,10,2678.438,178.56253333333333,14,Fiskars Spring-Action Scissors,Glendale,Arizona,West,1,12,2,2,0,2,11,15,0,0,2
+FP-14320,Frank Preis,23,8,4046.746,289.0532857142857,14,Apple iPhone 5C,New York City,California,East,3,7,4,2,0,0,12,14,0,0,2
+FW-14395,Fred Wasserman,362,3,79.75,26.583333333333332,3,Kensington K72356US Mouse-in-a-Box USB Desktop Mouse,Huntsville,Alabama,East,0,1,2,1,0,1,1,0,3,0,1
+GA-14515,George Ashbrook,149,5,3797.2320000000004,379.7232,10,AT&T 1080 Phone,San Francisco,California,West,2,5,3,0,0,3,7,10,0,0,0
+GA-14725,Guy Armstrong,5,11,1398.382,63.56281818181819,22,Avery 483,Columbia,Missouri,Central,5,16,1,2,1,6,13,22,0,0,2
+GB-14530,George Bell,62,11,1568.44,78.422,19,Things To Do Today Pad,Los Angeles,California,East,8,11,1,2,0,3,15,0,20,0,2
+GB-14575,Giulietta Baptist,13,5,4716.2880000000005,294.76800000000003,16,Adjustable Depth Letter/Legal Cart,Columbia,South Carolina,South,3,11,2,0,0,0,16,16,0,0,0
+GD-14590,Giulietta Dortch,5,4,1888.07,314.67833333333334,6,Cisco 8x8 Inc. 6753i IP Business Phone System,Arlington,Pennsylvania,East,0,4,2,2,0,2,2,0,6,0,0
+GG-14650,Greg Guthrie,43,9,2224.0,92.66666666666667,24,Staples,Los Angeles,California,West,4,16,4,4,0,2,18,0,24,0,2
+GH-14410,Gary Hansen,75,9,2819.467,165.851,17,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",Chicago,California,West,4,11,2,1,0,4,12,0,0,17,2
+GH-14425,Gary Hwang,50,4,4172.8460000000005,417.28460000000007,10,Acco D-Ring Binder w/DublLock,Tucson,Arizona,West,2,7,1,0,0,0,10,10,0,0,0
+GH-14485,Gene Hale,387,2,1361.2440000000001,453.74800000000005,3,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",Richardson,Texas,Central,2,0,1,2,0,0,1,0,3,0,1
+GH-14665,Greg Hansen,2,2,146.9408,48.980266666666665,3,Acme Box Cutter Scissors,Round Rock,Texas,Central,1,2,0,0,0,1,2,3,0,0,0
+GK-14620,Grace Kelly,112,9,6497.27,464.09071428571434,14,Avery 511,Los Angeles,California,West,1,7,6,4,0,3,7,0,14,0,2
+GM-14440,Gary McGarr,83,7,3582.8199999999997,325.71090909090907,11,Avery 505,Knoxville,California,East,7,3,1,3,0,1,7,11,0,0,2
+GM-14455,Gary Mitchum,16,6,3078.624,256.55199999999996,12,"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",Chicago,Illinois,East,3,4,5,2,0,2,8,0,0,12,0
+GM-14500,Gene McClure,106,10,1255.682,96.59092307692308,13,Ativa MDM8000 8-Sheet Micro-Cut Shredder,Oceanside,California,East,2,9,2,0,0,4,9,13,0,0,2
+GM-14680,Greg Matthias,152,6,3163.628,287.60254545454546,11,Acme Design Stainless Steel Bent Scissors,San Jose,California,West,4,4,3,0,0,0,11,11,0,0,0
+GM-14695,Greg Maxwell,117,3,6049.966,549.9969090909091,11,AT&T CL82213,Alexandria,California,West,1,9,1,0,0,6,5,0,11,0,0
+GP-14740,Guy Phonely,764,2,236.53,47.306,5,Aluminum Screw Posts,Leominster,Massachusetts,East,0,5,0,0,0,0,5,0,5,0,1
+GR-14560,Georgia Rosenberg,1135,2,1284.38,256.87600000000003,5,Avery 480,Wilmington,Delaware,East,1,4,0,0,0,0,5,0,5,0,1
+GT-14635,Grant Thornton,56,3,9351.212,1558.5353333333333,6,Acme Office Executive Series Stainless Steel Trimmers,Long Beach,New York,East,1,4,1,0,2,0,4,0,6,0,0
+GT-14710,Greg Tran,36,11,11820.119999999999,407.5903448275862,28,Xerox 1880,Seattle,New York,East,4,21,4,5,0,2,22,29,0,0,2
+GT-14755,Guy Thornton,34,4,226.436,32.348,7,"Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",Harlingen,California,West,1,6,0,3,0,0,4,7,0,0,0
+GW-14605,Giulietta Weimer,28,7,2189.0190000000002,243.22433333333336,9,Bevis Round Conference Room Tables and Bases,Henderson,Kentucky,South,2,4,3,0,0,3,6,9,0,0,0
+GZ-14470,Gary Zandusky,7,9,4355.150000000001,311.0821428571429,14,#6 3/4 Gummed Flap White Envelopes,Columbia,Maryland,West,5,7,2,1,4,1,8,14,0,0,2
+GZ-14545,George Zrebassa,157,4,2454.6220000000003,490.92440000000005,5,Belkin 5 Outlet SurgeMaster Power Centers,Los Angeles,California,West,1,3,1,0,0,1,4,0,5,0,0
+HA-14905,Helen Abelman,69,7,2163.2999999999997,216.32999999999998,10,American Pencil,Fort Collins,California,East,3,5,2,0,1,2,7,10,0,0,0
+HA-14920,Helen Andreada,20,8,2584.158,143.56433333333334,18,Acco Hot Clips Clips to Go,Laredo,California,Central,3,11,4,8,0,2,8,18,0,0,2
+HD-14785,Harold Dahlen,768,3,251.36,35.90857142857143,7,Aluminum Screw Posts,Philadelphia,Pennsylvania,East,0,7,0,0,0,2,5,0,0,7,1
+HE-14800,Harold Engle,12,3,755.462,94.43275,7,Tensor Track Tree Floor Lamp,Newark,Delaware,East,3,3,2,0,0,0,8,0,8,0,0
+HF-14995,Herbert Flentye,21,7,2533.164,133.32442105263158,19,"#10 White Business Envelopes,4 1/8 x 9 1/2",San Francisco,California,West,6,11,2,3,0,4,12,19,0,0,0
+HG-14845,Harry Greene,54,5,785.628,78.56280000000001,10,Avery Non-Stick Heavy Duty View Round Locking Ring Binders,New York City,New York,East,2,8,0,0,2,2,6,10,0,0,0
+HG-14965,Henry Goldwyn,23,12,3247.642,191.03776470588235,17,Acco 3-Hole Punch,Los Angeles,California,West,1,15,1,2,1,2,12,0,17,0,2
+HG-15025,Hunter Glantz,6,7,3690.284,335.4803636363636,11,DMI Arturo Collection Mission-style Design Wood Chair,Amarillo,Texas,Central,1,6,4,0,4,0,7,11,0,0,2
+HH-15010,Hilary Holden,72,2,218.668,36.44466666666667,6,Ampad #10 Peel & Seel Holiday Envelopes,San Francisco,California,West,2,4,0,0,2,4,0,0,6,0,0
+HJ-14875,Heather Jas,126,5,358.1,59.68333333333334,6,Acme Tagit Stainless Steel Antibacterial Scissors,Mesa,Arizona,West,1,5,0,4,0,0,2,0,0,6,0
+HK-14890,Heather Kirkland,151,8,4877.784,325.18559999999997,15,Belkin 5 Outlet SurgeMaster Power Centers,Houston,Texas,Central,4,7,4,0,0,2,13,0,15,0,2
+HL-15040,Hunter Lopez,43,6,12873.297999999999,1170.2998181818182,11,Staple envelope,Jonesboro,Arkansas,South,3,5,3,1,0,2,8,11,0,0,2
+HM-14860,Harry Marie,2,10,8236.764799999999,411.8382399999999,20,3M Hangers With Command Adhesive,Dallas,Texas,Central,7,9,4,2,0,3,15,0,20,0,2
+HM-14980,Henry MacAllister,247,4,736.276,105.18228571428571,7,Avery Binding System Hidden Tab Executive Style Index Sets,Los Angeles,California,West,1,5,1,3,0,0,4,7,0,0,0
+HP-14815,Harold Pawlan,30,7,1990.314,199.03140000000002,10,"Acme 10"" Easy Grip Assistive Scissors",Fort Worth,Arizona,Central,2,7,1,0,0,3,7,0,0,10,0
+HR-14770,Hallie Redmond,13,4,940.5880000000001,188.1176,5,50 Colored Long Pencils,Jacksonville,Florida,South,1,2,2,1,0,1,3,0,0,5,0
+HR-14830,Harold Ryan,159,7,5248.787,374.91335714285714,14,"#10 White Business Envelopes,4 1/8 x 9 1/2",New York City,New York,East,3,8,3,5,1,2,6,0,14,0,2
+HW-14935,Helen Wasserman,117,7,4827.934,321.8622666666667,15,Belkin 7 Outlet SurgeMaster II,Tulsa,Oklahoma,Central,3,8,4,5,0,3,7,0,15,0,2
+HZ-14950,Henia Zydlo,35,5,886.52,147.75333333333333,6,Advantus Panel Wall Acrylic Frame,Houston,New York,East,3,2,1,0,1,0,5,6,0,0,0
+IG-15085,Ivan Gibson,71,4,744.574,106.36771428571429,7,Binding Machine Supplies,Little Rock,Arkansas,South,0,7,0,0,0,2,5,7,0,0,0
+IL-15100,Ivan Liston,142,7,5040.736,360.0525714285714,14,Aastra 57i VoIP phone,Columbus,Delaware,Central,3,8,3,2,0,0,12,14,0,0,2
+IM-15055,Ionia McGrath,409,2,48.4,24.2,2,Round Ring Binders,Las Vegas,California,West,0,2,0,1,0,0,1,2,0,0,1
+IM-15070,Irene Maddox,390,7,4930.474,234.7844761904762,21,Acme Stainless Steel Office Snips,Colorado Springs,Colorado,West,5,14,2,0,0,4,17,21,0,0,1
+JA-15970,Joseph Airdo,92,8,6491.026,270.45941666666664,24,Avery Durable Slant Ring Binders,Detroit,Michigan,West,2,17,5,0,0,6,18,24,0,0,2
+JB-15400,Jennifer Braxton,7,10,1791.605,111.9753125,16,Acco 3-Hole Punch,Tampa,Illinois,Central,1,12,3,3,0,3,10,0,16,0,2
+JB-15925,Joni Blumstein,736,3,900.552,112.569,8,AmazonBasics 3-Button USB Wired Mouse,Dublin,Ohio,East,1,5,2,7,0,0,1,8,0,0,1
+JB-16000,Joy Bell-,43,7,644.1188,92.01697142857142,7,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Brownsville,California,West,2,5,0,1,0,2,4,7,0,0,0
+JB-16045,Julia Barnett,7,5,2518.1150000000002,279.79055555555556,9,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",Columbus,Georgia,East,3,4,2,0,0,1,8,0,0,9,0
+JC-15340,Jasper Cacioppo,114,4,71.263,17.81575,4,"C-Line Peel & Stick Add-On Filing Pockets, 8-3/4 x 5-1/8, 10/Pack",Los Angeles,California,East,1,3,0,0,0,0,4,4,0,0,0
+JC-15385,Jenna Caffey,175,1,1058.108,264.527,4,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",Kent,Washington,West,1,2,1,0,0,0,4,4,0,0,0
+JC-15775,John Castell,158,9,2772.055,173.2534375,16,Acme Galleria Hot Forged Steel Scissors with Colored Handles,Philadelphia,Pennsylvania,East,5,8,3,0,1,6,9,16,0,0,2
+JC-16105,Julie Creighton,57,5,858.576,95.39733333333334,9,Avery 476,Rochester,New York,East,2,6,1,0,0,1,8,0,9,0,0
+JD-15790,John Dryer,117,5,2152.3520000000003,307.4788571428572,7,Acco Perma 3000 Stacking Storage Drawers,Coppell,Texas,Central,1,5,1,0,0,0,7,7,0,0,0
+JD-15895,Jonathan Doherty,394,11,7610.8640000000005,237.83950000000002,32,Acme Softgrip Scissors,Columbia,California,East,6,22,4,4,0,19,9,0,32,0,2
+JD-16015,Joy Daniels,112,6,385.43,35.03909090909091,11,3M Organizer Strips,Chicago,Illinois,Central,0,8,3,3,0,1,7,11,0,0,0
+JD-16060,Julia Dunbar,300,3,695.442,115.907,6,Advantus Map Pennant Flags and Round Head Tacks,Rochester,Minnesota,Central,1,5,0,0,4,0,2,6,0,0,1
+JD-16150,Justin Deggeller,41,8,8828.0305,519.2959117647059,17,Apple EarPods with Remote and Mic,Los Angeles,California,West,8,5,4,5,0,0,12,0,17,0,2
+JE-15475,Jeremy Ellison,193,6,1388.682,106.8216923076923,13,Acco D-Ring Binder w/DublLock,Houston,Texas,Central,3,6,4,0,0,1,12,13,0,0,0
+JE-15610,Jim Epp,48,7,7754.976,387.74879999999996,20,ACCOHIDE Binder by Acco,Lakeland,Florida,South,3,12,5,9,0,5,6,0,20,0,2
+JE-15715,Joe Elijah,46,10,8697.843,395.35650000000004,21,Global Executive Mid-Back Manager's Chair,Charlotte,North Carolina,South,7,13,2,3,0,1,18,22,0,0,2
+JE-15745,Joel Eaton,51,13,6760.815,293.94847826086954,22,"Belkin 19"" Vented Equipment Shelf, Black",Florence,California,South,9,8,6,3,3,7,10,23,0,0,2
+JE-16165,Justin Ellison,20,3,2697.248,385.3211428571429,7,Anker Astro 15000mAh USB Portable Charger,Franklin,Wisconsin,Central,2,3,2,0,0,2,5,0,7,0,0
+JF-15190,Jamie Frazer,65,6,2239.6059999999998,124.42255555555555,18,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Long Beach,California,East,1,15,2,0,0,4,14,18,0,0,0
+JF-15295,Jason Fortune-,225,5,955.124,68.22314285714286,14,24-Hour Round Wall Clock,Logan,Utah,West,4,8,2,3,0,0,11,14,0,0,0
+JF-15355,Jay Fein,105,6,1911.844,119.49025,16,Belkin 6 Outlet Metallic Surge Strip,San Diego,California,West,5,8,3,0,3,9,4,16,0,0,0
+JF-15415,Jennifer Ferguson,2,5,2309.4320000000002,177.6486153846154,13,Avery 473,Seattle,Washington,West,1,9,3,1,7,1,4,13,0,0,0
+JF-15490,Jeremy Farry,121,10,890.9499999999999,63.63928571428571,14,"Alliance Big Bands Rubber Bands, 12/Pack",San Francisco,California,West,4,10,0,2,2,0,10,14,0,0,2
+JF-15565,Jill Fjeld,54,8,4198.332,262.39575,16,#10 Self-Seal White Envelopes,Fayetteville,North Carolina,South,3,9,4,0,0,8,8,16,0,0,2
+JG-15115,Jack Garza,757,3,2358.676,336.9537142857143,7,Canon PC1080F Personal Copier,Jacksonville,North Carolina,South,1,2,4,0,1,2,4,7,0,0,1
+JG-15160,James Galang,1,11,6366.392,353.68844444444443,18,Adtran 1202752G1,Los Angeles,California,West,4,8,6,5,1,3,9,18,0,0,2
+JG-15310,Jason Gross,2,6,2240.58,203.6890909090909,11,36X48 HARDFLOOR CHAIRMAT,Newark,Ohio,East,4,7,0,3,4,2,2,0,11,0,0
+JG-15805,John Grady,223,6,1507.018,167.44644444444444,9,"Adams ""While You Were Out"" Message Pads",Auburn,New York,East,1,8,0,3,0,1,5,0,9,0,0
+JH-15430,Jennifer Halladay,5,4,309.281,44.183,7,"Eldon 400 Class Desk Accessories, Black Carbon",Burlington,Florida,South,1,5,1,4,0,0,3,7,0,0,0
+JH-15820,John Huston,174,6,528.91,66.11375,8,Anker Ultrathin Bluetooth Wireless Keyboard Aluminum Cover with Stand,Kent,Ohio,East,1,5,2,1,0,5,2,8,0,0,0
+JH-15910,Jonathan Howell,41,7,959.477,106.60855555555555,9,Adtran 1202752G1,Atlanta,California,Central,2,4,3,0,1,0,8,9,0,0,0
+JH-15985,Joseph Holt,29,6,7954.9980000000005,568.2141428571429,14,14-7/8 x 11 Blue Bar Computer Printout Paper,Saginaw,Michigan,West,1,11,2,4,0,1,9,14,0,0,2
+JH-16180,Justin Hirsh,404,4,2256.394,451.27879999999993,5,Clearsounds A400,Philadelphia,Pennsylvania,East,2,2,1,0,0,1,4,5,0,0,1
+JJ-15445,Jennifer Jackson,483,5,709.178,118.19633333333333,6,Aluminum Screw Posts,New York City,New York,East,0,5,1,1,0,2,3,6,0,0,1
+JJ-15760,Joel Jenkins,752,2,195.0,65.0,3,Holmes Odor Grabber,Springfield,Virginia,South,0,2,1,0,0,1,2,0,0,3,1
+JK-15205,Jamie Kunitz,61,4,4262.292,355.19100000000003,12,"""While you Were Out"" Message Book, One Form per Page",San Francisco,California,West,2,8,2,0,0,2,10,12,0,0,0
+JK-15325,Jason Klamczynski,287,3,383.812,95.953,4,Fellowes Basic Home/Office Series Surge Protectors,Dallas,Texas,Central,0,3,1,0,0,2,2,0,4,0,0
+JK-15370,Jay Kimmel,44,7,2136.458,133.528625,15,Sterilite Officeware Hinged File Box,Miami,California,West,1,12,3,3,4,4,5,16,0,0,0
+JK-15625,Jim Karlsson,61,7,3760.0280000000002,313.33566666666667,12,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",New York City,Washington,East,5,4,3,3,0,2,7,12,0,0,2
+JK-15640,Jim Kriz,180,9,4760.433999999999,396.7028333333333,12,Avery Hi-Liter Smear-Safe Highlighters,Seattle,Washington,East,0,8,4,0,6,2,4,0,0,12,2
+JK-15730,Joe Kamberova,84,9,4769.900000000001,251.04736842105265,19,BPI Conference Tables,Des Plaines,Illinois,Central,6,10,3,5,1,5,8,19,0,0,2
+JK-16090,Juliana Krohn,28,3,3747.668,416.4075555555556,9,Acme Softgrip Scissors,Louisville,Kentucky,South,3,4,2,0,0,0,9,9,0,0,0
+JK-16120,Julie Kriz,117,10,2932.484,172.4990588235294,17,Avery 480,Austin,Texas,Central,5,10,2,0,1,3,13,0,0,17,2
+JL-15130,Jack Lebron,8,6,1214.9560000000001,101.24633333333334,12,"Bevis Round Bullnose 29"" High Table Top",Jackson,Tennessee,South,1,9,2,3,0,0,9,12,0,0,0
+JL-15175,James Lanier,6,5,1571.5230000000001,224.50328571428574,7,Acco 6 Outlet Guardian Premium Surge Suppressor,Chandler,Arizona,West,2,3,2,0,1,1,5,0,0,7,0
+JL-15235,Janet Lee,119,5,2203.7,220.36999999999998,10,Acco Translucent Poly Ring Binders,Newark,Delaware,East,3,6,1,0,0,0,10,10,0,0,0
+JL-15505,Jeremy Lonsdale,49,6,3173.874,186.6984705882353,17,"#10 Gummed Flap White Envelopes, 100/Box",Westminster,California,West,3,12,2,0,0,1,16,17,0,0,0
+JL-15835,John Lee,21,10,9576.343,290.19221212121215,32,"Howard Miller 11-1/2"" Diameter Grantwood Wall Clock",Los Angeles,California,East,8,20,5,0,5,9,19,33,0,0,2
+JL-15850,John Lucas,614,6,2725.256,247.75054545454543,11,AT&T 841000 Phone,Philadelphia,Pennsylvania,West,1,7,3,1,0,4,6,11,0,0,1
+JM-15250,Janet Martin,37,6,3159.122,166.26957894736842,19,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Huntsville,Texas,Central,6,11,2,1,0,3,15,19,0,0,0
+JM-15265,Janet Molinari,37,5,1804.146,138.78046153846154,13,AT&T CL83451 4-Handset Telephone,Chicago,California,Central,4,7,2,0,0,6,7,0,13,0,0
+JM-15535,Jessica Myrick,102,7,1733.443,173.3443,10,Barrel Sharpener,New York City,New York,East,4,4,2,3,0,1,6,10,0,0,0
+JM-15580,Jill Matthias,0,5,303.948,43.421142857142854,7,Array Memo Cubes,Los Angeles,California,West,0,5,2,1,0,0,6,7,0,0,0
+JM-15655,Jim Mitchum,8,5,864.947,72.07891666666667,12,Avery 517,Carlsbad,New Mexico,West,1,8,3,2,2,0,8,0,12,0,0
+JM-15865,John Murray,109,7,7625.076,586.5443076923077,13,Acco 6 Outlet Guardian Premium Surge Suppressor,Phoenix,Arizona,West,3,8,2,1,0,6,6,13,0,0,2
+JM-16195,Justin MacKendrick,57,10,2833.926,149.154,19,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",Los Angeles,California,West,4,13,2,9,1,6,3,19,0,0,2
+JO-15145,Jack O'Briant,57,9,3254.949,250.3806923076923,13,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",Franklin,California,West,5,6,2,3,2,0,8,0,13,0,2
+JO-15280,Jas O'Carroll,92,6,1934.272,175.84290909090907,11,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",Los Angeles,California,West,2,8,1,0,1,7,3,11,0,0,0
+JO-15550,Jesus Ocampo,215,5,1090.838,99.1670909090909,11,"Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",Chester,Pennsylvania,East,0,10,1,7,0,0,4,0,0,11,0
+JP-15460,Jennifer Patt,37,7,1669.135,111.27566666666667,15,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Dallas,New York,East,2,12,1,6,0,0,9,0,15,0,0
+JP-15520,Jeremy Pistek,8,7,3635.594,227.224625,16,Acme Serrated Blade Letter Opener,San Francisco,California,West,2,12,2,0,0,8,8,16,0,0,2
+JP-16135,Julie Prescott,102,9,1707.71,131.3623076923077,12,Iceberg Mobile Mega Data/Printer Cart,Columbus,California,East,2,10,1,0,2,1,10,0,0,13,2
+JR-15670,Jim Radford,593,2,1156.658,385.55266666666665,3,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",Colorado Springs,Colorado,West,1,2,0,0,0,0,3,3,0,0,1
+JR-15700,Jocasta Rupert,68,1,863.88,863.88,1,Wilson SignalBoost 841262 DB PRO Amplifier Kit,Jacksonville,Florida,South,0,0,1,0,0,0,1,1,0,0,0
+JR-16210,Justin Ritter,33,5,2201.686,220.16860000000003,10,Enermax Acrylux Wireless Keyboard,Springfield,Oregon,West,2,4,4,1,0,1,8,0,10,0,0
+JS-15595,Jill Stevenson,119,4,1417.654,177.20675,8,Advantus Plastic Paper Clips,Chicago,Illinois,Central,1,6,1,1,0,1,6,0,8,0,0
+JS-15685,Jim Sink,42,3,990.1959999999999,110.02177777777777,9,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",Miramar,Florida,South,1,7,1,0,0,5,4,0,9,0,0
+JS-15880,John Stevenson,534,5,3868.02,429.78,9,"Avery Durable Slant Ring Binders, No Labels",Harlingen,Texas,Central,3,5,1,5,0,3,1,9,0,0,1
+JS-15940,Joni Sundaresam,463,5,469.169,58.646125,8,Avery 481,Lancaster,Ohio,East,3,5,0,2,0,3,3,0,0,8,1
+JS-16030,Joy Smith,28,6,2516.4939999999997,139.8052222222222,18,3.6 Cubic Foot Counter Height Office Refrigerator,Hattiesburg,Mississippi,Central,5,11,2,1,0,2,15,18,0,0,0
+JW-15220,Jane Waco,42,6,7721.714,551.551,14,Anker Astro Mini 3000mAh Ultra-Compact Portable Charger,Lawrence,California,West,7,4,3,0,0,1,13,0,14,0,2
+JW-15955,Joni Wasserman,5,6,1049.238,104.9238,10,Avery 479,Louisville,Kentucky,East,4,5,1,3,0,2,5,10,0,0,0
+JW-16075,Julia West,461,4,1428.731,204.10442857142857,7,3M Replacement Filter for Office Air Cleaner for 20' x 33' Room,Jacksonville,North Carolina,South,0,7,0,0,0,0,7,7,0,0,1
+KA-16525,Kelly Andreada,36,7,1519.506,138.13690909090909,11,Ames Color-File Green Diamond Border X-ray Mailers,New York City,New York,East,2,8,1,1,0,2,8,11,0,0,0
+KB-16240,Karen Bern,4,7,3152.615,315.26149999999996,10,Avery Hole Reinforcements,Los Angeles,California,Central,3,4,3,0,0,1,9,0,10,0,2
+KB-16315,Karl Braun,296,9,1569.464,71.33927272727273,22,Acco Hanging Data Binders,Akron,Ohio,East,3,16,3,0,0,5,17,22,0,0,2
+KB-16405,Katrina Bavinger,117,3,908.821,100.98011111111111,9,AmazonBasics 3-Button USB Wired Mouse,New York City,New York,West,3,4,2,2,0,4,3,0,0,9,0
+KB-16585,Ken Black,230,12,2744.742,119.33660869565219,23,24-Hour Round Wall Clock,Lafayette,Louisiana,West,2,14,7,3,1,2,17,0,23,0,2
+KB-16600,Ken Brennan,1,7,983.922,109.32466666666667,9,"6"" Cubicle Wall Clock, Black",Houston,Texas,Central,1,7,1,5,0,0,4,0,9,0,0
+KC-16255,Karen Carlisle,407,6,2120.9539999999997,212.09539999999998,10,Aluminum Screw Posts,Henderson,Kentucky,South,0,7,3,5,0,5,0,0,10,0,1
+KC-16540,Kelly Collister,97,4,3908.2619999999997,781.6524,5,Binder Posts,San Diego,California,West,1,2,2,0,1,0,4,5,0,0,0
+KC-16675,Kimberly Carter,57,4,1146.05,163.72142857142856,7,"ACCOHIDE 3-Ring Binder, Blue, 1""",Louisville,Kentucky,South,2,5,0,2,0,1,4,0,7,0,0
+KD-16270,Karen Daniels,484,5,8282.358,517.647375,16,Adjustable Depth Letter/Legal Cart,Houston,Texas,Central,2,10,4,3,0,0,13,16,0,0,1
+KD-16345,Katherine Ducich,41,6,1888.9640000000002,188.89640000000003,10,Aastra 6757i CT Wireless VoIP phone,New York City,New York,East,1,5,4,4,0,1,5,10,0,0,0
+KD-16495,Keith Dawkins,112,12,8181.256,292.1877142857143,28,"Acco Six-Outlet Power Strip, 4' Cord Length",San Jose,California,West,7,18,3,2,5,0,21,0,28,0,2
+KD-16615,Ken Dana,289,4,907.158,129.594,7,12-1/2 Diameter Round Wall Clock,Los Angeles,California,West,1,6,0,0,0,0,7,0,7,0,0
+KE-16420,Katrina Edelman,26,7,1453.2812,121.10676666666666,12,Avery Poly Binder Pockets,Aurora,Texas,Central,3,8,1,5,0,0,7,0,12,0,0
+KF-16285,Karen Ferguson,97,7,10604.266,589.1258888888889,18,#10 Self-Seal White Envelopes,Sandy Springs,California,West,2,14,2,4,3,0,11,0,0,18,2
+KH-16330,Katharine Harms,40,8,3312.864,184.048,18,3M Organizer Strips,New York City,New York,East,5,9,4,0,0,6,12,0,18,0,2
+KH-16360,Katherine Hughes,1,6,3100.612,221.47228571428573,14,"Adams Telephone Message Books, 5 1/4” x 11”",Louisville,Kentucky,Central,5,8,1,0,0,9,5,14,0,0,0
+KH-16510,Keith Herrera,22,6,5229.695000000001,261.48475,20,Avery 489,San Francisco,California,West,4,10,6,2,0,3,15,20,0,0,0
+KH-16630,Ken Heidel,58,9,3918.966,230.52741176470587,17,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Clinton,Maryland,East,0,12,5,1,0,3,13,0,17,0,2
+KH-16690,Kristen Hastings,2,7,5990.799,399.3866,15,Adjustable Depth Letter/Legal Cart,Springfield,Oregon,West,0,12,3,0,1,2,12,0,15,0,2
+KL-16555,Kelly Lampkin,16,8,5016.488,228.02218181818182,22,Avery Poly Binder Pockets,Colorado Springs,Colorado,South,9,10,3,11,0,2,9,0,22,0,2
+KL-16645,Ken Lonsdale,47,12,14175.229,488.801,28,Staple-based wall hangings,Chicago,Illinois,Central,7,15,7,0,1,13,15,29,0,0,2
+KM-16225,Kalyca Meade,14,6,2260.958,118.99778947368422,19,3M Polarizing Light Filter Sleeves,Baltimore,California,East,4,11,4,0,0,5,14,0,19,0,0
+KM-16375,Katherine Murray,56,8,5620.186,281.0093,20,Airmail Envelopes,Gilbert,Arizona,West,6,10,4,1,0,0,19,0,0,20,2
+KM-16660,Khloe Miller,15,5,453.538,50.39311111111111,9,Avery 495,Inglewood,California,West,1,6,2,0,0,1,8,9,0,0,0
+KM-16720,Kunst Miller,28,8,4909.472,175.33828571428572,28,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",New York City,New York,West,4,17,7,3,0,5,20,28,0,0,2
+KN-16390,Katherine Nockton,19,8,2224.086,148.27239999999998,15,Acco D-Ring Binder w/DublLock,New York City,Ohio,East,4,5,6,2,0,1,12,0,15,0,2
+KN-16450,Kean Nguyen,52,5,2171.962,271.49525,8,AT&T 1080 Corded phone,Redondo Beach,California,West,2,3,3,0,0,1,7,0,8,0,0
+KN-16705,Kristina Nunn,98,7,2003.01,166.9175,12,Anker 24W Portable Micro USB Car Charger,Seattle,Washington,West,1,8,3,1,0,1,10,0,0,12,0
+KS-16300,Karen Seio,295,3,88.47200000000001,22.118000000000002,4,Avery 508,Raleigh,North Carolina,South,0,3,1,0,0,1,3,0,4,0,1
+KT-16465,Kean Takahito,391,7,3057.1,218.3642857142857,14,Avery Durable Slant Ring Binders,Chicago,California,Central,4,9,1,0,2,1,11,14,0,0,1
+KT-16480,Kean Thornton,100,10,4642.088400000001,357.0837230769231,13,APC 7 Outlet Network SurgeArrest Surge Protector,Buffalo,Texas,East,3,8,2,1,0,6,6,13,0,0,2
+KW-16435,Katrina Willman,96,5,4416.52,441.65200000000004,10,Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,New York City,New York,East,3,3,4,1,1,0,8,10,0,0,0
+KW-16570,Kelly Williams,770,4,449.096,89.8192,5,Dana Swing-Arm Lamps,Kirkwood,Missouri,Central,2,2,1,3,0,0,2,5,0,0,1
+LA-16780,Laura Armstrong,154,11,8673.222,333.5854615384615,26,2300 Heavy-Duty Transfer File Systems by Perma,Hackensack,Texas,Central,8,9,9,1,0,12,13,0,26,0,2
+LB-16735,Larry Blacks,48,3,50.188,16.729333333333333,3,"DAX Value U-Channel Document Frames, Easel Back",Fort Worth,California,Central,1,2,0,1,0,1,1,3,0,0,0
+LB-16795,Laurel Beltran,152,8,4985.676,207.7365,23,"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",Seattle,California,West,5,16,3,9,4,1,10,0,0,24,2
+LC-16870,Lena Cacioppo,27,8,2580.7039999999997,86.02346666666666,29,Memorex Micro Travel Drive 16 GB,Thornton,Colorado,West,7,17,6,4,1,14,11,30,0,0,2
+LC-16885,Lena Creighton,16,12,7663.126,333.17939130434786,23,AT&T CL2909,Roseville,California,West,9,9,5,4,0,2,17,23,0,0,2
+LC-16930,Linda Cazamias,41,8,4492.946,320.9247142857143,14,"Crayola Anti Dust Chalk, 12/Pack",Phoenix,Arizona,West,3,6,5,5,0,3,6,0,14,0,2
+LC-16960,Lindsay Castell,436,4,3246.6259999999997,463.80371428571425,7,Aluminum Document Frame,Tampa,Florida,South,2,5,0,0,0,0,7,0,0,7,1
+LC-17050,Liz Carlisle,54,5,2095.064,232.78488888888887,9,Acco D-Ring Binder w/DublLock,Los Angeles,California,West,4,3,2,1,0,4,4,9,0,0,0
+LC-17140,Logan Currie,13,9,2633.582,138.60957894736842,18,"Electrix Architect's Clamp-On Swing Arm Lamp, Black",Philadelphia,California,East,7,9,3,0,0,11,8,19,0,0,2
+LD-16855,Lela Donovan,552,1,5.304,5.304,1,Newell 311,Chicago,Illinois,Central,0,1,0,0,0,0,1,0,1,0,1
+LD-17005,Lisa DeCherney,414,4,1961.934,280.27628571428573,7,Avery 48,New York City,New York,East,2,4,1,0,0,4,3,7,0,0,1
+LE-16810,Laurel Elliston,21,6,1469.4499999999998,163.2722222222222,9,Acme Forged Steel Scissors with Black Enamel Handles,Chicago,Illinois,Central,3,4,2,1,0,2,6,9,0,0,0
+LF-17185,Luke Foster,22,7,3930.509,245.6568125,16,12-1/2 Diameter Round Wall Clock,San Antonio,Texas,Central,4,11,1,5,3,1,7,16,0,0,2
+LH-16750,Larry Hughes,151,3,287.426,95.80866666666667,3,"Angle-D Binders with Locking Rings, Label Holders",Chandler,Arizona,East,0,2,1,2,0,0,1,3,0,0,0
+LH-16900,Lena Hernandez,21,9,2295.332,153.02213333333333,15,Acco Suede Grain Vinyl Round Ring Binder,Columbus,North Carolina,South,2,6,7,0,0,5,10,15,0,0,2
+LH-17020,Lisa Hazard,239,4,318.239,53.03983333333333,6,Advantus Panel Wall Acrylic Frame,Louisville,Colorado,West,2,3,1,4,0,1,1,6,0,0,0
+LH-17155,Logan Haushalter,385,9,1739.689,91.56257894736842,19,Boston Heavy-Duty Trimline Electric Pencil Sharpeners,Los Angeles,California,West,6,8,5,2,1,8,8,19,0,0,2
+LL-16840,Lauren Leatherbury,249,5,2454.554,245.4554,10,Avery 501,Waynesboro,Virginia,South,3,5,2,4,2,1,3,10,0,0,0
+LM-17065,Liz MacKendrick,391,5,1346.774,192.3962857142857,7,Anker Ultrathin Bluetooth Wireless Keyboard Aluminum Cover with Stand,Southaven,Mississippi,South,1,4,2,0,0,0,7,7,0,0,1
+LO-17170,Lori Olson,2,5,644.35,71.59444444444445,9,3M Hangers With Command Adhesive,Peoria,Illinois,Central,4,4,1,3,0,2,4,0,9,0,0
+LP-17080,Liz Pelletier,40,4,756.606,84.06733333333334,9,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",San Francisco,California,West,4,5,0,0,3,2,4,9,0,0,0
+LP-17095,Liz Preis,9,6,3104.439,238.803,13,Acco 6 Outlet Guardian Premium Surge Suppressor,Aurora,Illinois,Central,1,10,2,1,0,0,12,13,0,0,0
+LR-16915,Lena Radford,26,6,5142.892,321.43075,16,AT&T 1070 Corded Phone,Los Angeles,California,West,4,8,4,4,1,0,11,16,0,0,0
+LR-17035,Lisa Ryan,132,5,1879.306,156.60883333333334,12,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",Philadelphia,California,West,1,9,2,0,0,3,9,0,12,0,0
+LS-16945,Linda Southworth,178,6,2845.27,203.23357142857142,14,Avery 483,Dallas,Colorado,West,3,10,1,2,0,0,12,0,14,0,0
+LS-16975,Lindsay Shagiari,20,9,2988.674,135.8488181818182,22,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Dallas,Texas,Central,6,13,3,0,1,7,14,0,0,22,2
+LS-17200,Luke Schmidt,96,6,1010.256,72.16114285714285,14,3M Office Air Cleaner,Fresno,California,Central,3,11,0,4,3,0,7,0,14,0,0
+LS-17230,Lycoris Saunders,776,3,368.88,61.48,6,"Avery Framed View Binder, EZD Ring (Locking), Navy, 1 1/2""",Grand Prairie,Texas,Central,2,4,0,0,0,1,5,6,0,0,1
+LS-17245,Lynn Smith,34,6,1008.136,84.01133333333333,12,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",Utica,New York,East,1,7,4,4,7,0,1,12,0,0,0
+LT-16765,Larry Tron,26,3,329.876,109.95866666666666,3,"BOSTON Model 1800 Electric Pencil Sharpeners, Putty/Woodgrain",Escondido,California,West,0,2,1,0,0,2,1,3,0,0,0
+LT-17110,Liz Thompson,34,8,2936.252,209.73228571428572,14,3M Hangers With Command Adhesive,San Diego,California,West,5,7,2,1,1,0,12,14,0,0,2
+LW-16825,Laurel Workman,88,5,2238.061,149.20406666666668,15,Avery Durable Binders,Phoenix,Arizona,West,3,7,5,4,0,4,7,0,15,0,0
+LW-16990,Lindsay Williams,33,6,3230.308,293.66436363636365,11,Avery Poly Binder Pockets,San Francisco,California,West,4,3,4,2,0,0,9,0,11,0,0
+LW-17125,Liz Willingham,205,3,1259.04,251.808,5,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Virginia Beach,Virginia,South,3,1,1,3,0,0,2,5,0,0,0
+LW-17215,Luke Weiss,21,7,5420.514,361.3676,15,AT&T SB67148 SynJ,Rochester,New York,East,2,10,3,9,0,2,4,15,0,0,2
+MA-17560,Matt Abelman,64,11,4299.161,126.44591176470588,34,"Acco Smartsocket Table Surge Protector, 6 Color-Coded Adapter Outlets",Everett,Michigan,Central,6,21,7,2,4,15,13,0,0,34,2
+MA-17995,Michelle Arnett,186,6,2453.284,204.44033333333334,12,Avery 503,Richmond,Virginia,South,2,9,1,4,0,0,8,0,0,12,0
+MB-17305,Maria Bertelson,48,10,1548.702,81.51063157894737,19,#6 3/4 Gummed Flap White Envelopes,Columbus,Ohio,East,5,12,2,3,5,4,7,19,0,0,2
+MB-18085,Mick Brown,44,7,1428.231,142.8231,10,"Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",Charlotte,North Carolina,Central,2,5,3,0,3,1,6,10,0,0,0
+MC-17275,Marc Crier,76,8,2725.982,209.69092307692307,13,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",Pasco,Washington,West,5,8,0,1,3,0,9,13,0,0,2
+MC-17425,Mark Cousins,399,5,4432.138,443.2138,10,Bevis Steel Folding Chairs,Mobile,Alabama,South,3,5,2,4,0,1,5,0,10,0,1
+MC-17575,Matt Collins,27,8,1303.893,118.53572727272727,11,Avery 513,Fayetteville,North Carolina,East,0,10,1,1,0,4,6,11,0,0,2
+MC-17590,Matt Collister,51,6,2426.0669999999996,142.70982352941175,17,"Acco Clips to Go Binder Clips, 24 Clips in Two Sizes",Arlington,Texas,Central,4,9,4,0,0,4,13,0,17,0,0
+MC-17605,Matt Connell,112,8,2258.192,125.45511111111111,18,Avery 501,Lakeland,Florida,South,6,8,4,10,0,1,7,0,18,0,2
+MC-17635,Matthew Clasen,189,4,795.154,99.39425,8,Avery Heavy-Duty EZD  Binder With Locking Rings,Los Angeles,California,Central,0,7,1,0,0,5,3,0,8,0,0
+MC-17845,Michael Chen,1,7,3805.714,271.83671428571427,14,Avery 516,Jackson,California,West,3,10,1,4,0,5,5,14,0,0,2
+MC-18100,Mick Crebagga,41,10,2218.98,116.78842105263158,19,ARKON Windshield Dashboard Air Vent Car Mount Holder,Philadelphia,Texas,Central,7,8,4,2,3,0,14,19,0,0,2
+MC-18130,Mike Caudle,369,5,1581.998,143.818,11,Bretford Rectangular Conference Table Tops,Los Angeles,California,West,2,8,1,0,0,2,9,0,11,0,1
+MD-17350,Maribeth Dona,117,6,2716.4120000000003,181.09413333333336,15,"Bevis Traditional Conference Table Top, Plinth Base",Philadelphia,Ohio,East,4,9,2,0,0,4,11,15,0,0,0
+MD-17860,Michael Dominguez,36,5,1204.9099999999999,150.61374999999998,8,12-1/2 Diameter Round Wall Clock,Corpus Christi,Texas,Central,3,5,0,1,0,2,5,0,8,0,0
+ME-17320,Maria Etezadi,42,10,10663.728000000001,484.71490909090915,22,"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",Henderson,Kentucky,South,5,10,7,2,0,4,16,0,0,22,2
+ME-17725,Max Engle,28,8,1908.4532,146.80409230769231,13,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Dallas,Texas,Central,3,9,1,4,0,4,5,13,0,0,2
+ME-18010,Michelle Ellison,92,4,1256.944,209.49066666666667,6,Fellowes Bankers Box Stor/Drawer Steel Plus,San Francisco,California,West,2,4,0,0,0,0,6,0,6,0,0
+MF-17665,Maureen Fritzler,421,5,937.039,117.129875,8,Belkin F9H710-06 7 Outlet SurgeMaster Surge Protector,Columbia,Maryland,East,3,5,0,0,0,1,7,0,8,0,1
+MF-18250,Monica Federle,7,5,1758.3,146.525,12,"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",Little Rock,Arkansas,South,3,8,1,0,0,5,7,0,12,0,0
+MG-17650,Matthew Grinstein,29,7,3785.276,270.37685714285715,14,Acco 6 Outlet Guardian Premium Plus Surge Suppressor,Jackson,Michigan,Central,2,6,6,1,0,1,12,0,0,14,2
+MG-17680,Maureen Gastineau,92,4,2350.188,235.0188,10,G.E. Longer-Life Indoor Recessed Floodlight Bulbs,Mentor,Ohio,East,5,2,3,2,6,0,2,0,0,10,0
+MG-17695,Maureen Gnade,555,3,1342.282,191.7545714285714,7,Compact Automatic Electric Letter Opener,Philadelphia,Pennsylvania,East,0,6,1,0,0,0,7,7,0,0,1
+MG-17875,Michael Grace,116,5,1242.833,177.54757142857144,7,GBC Plastic Binding Combs,Arlington,Texas,Central,2,5,0,2,0,2,3,0,0,7,0
+MG-17890,Michael Granlund,99,9,776.384,59.72184615384616,13,"Acco Banker's Clasps, 5 3/4""-Long",Baltimore,Maryland,West,4,6,3,0,0,0,13,0,0,13,2
+MG-18145,Mike Gockenbach,84,4,3061.543,382.692875,8,Bush Advantage Collection Racetrack Conference Table,Los Angeles,California,East,2,3,3,0,0,1,7,8,0,0,0
+MG-18205,Mitch Gastineau,264,1,16.739,8.3695,2,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",Jacksonville,Florida,South,1,1,0,0,0,2,0,0,2,0,1
+MH-17290,Marc Harrigan,294,5,1691.505,169.15050000000002,10,Astroparche Fine Business Paper,Philadelphia,Pennsylvania,East,2,7,1,0,1,2,7,0,0,10,0
+MH-17440,Mark Haberlin,376,4,400.01599999999996,44.44622222222222,9,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",Jackson,Mississippi,South,1,8,0,0,0,3,6,0,9,0,1
+MH-17455,Mark Hamilton,170,7,2146.6940000000004,238.5215555555556,9,Cisco SPA508G,New York City,New York,East,4,4,1,0,1,2,6,9,0,0,0
+MH-17620,Matt Hagelstein,155,4,1252.8,208.79999999999998,6,"Executive Impressions 14"" Contract Wall Clock",San Francisco,California,West,1,4,1,1,0,0,5,0,6,0,0
+MH-17785,Maya Herman,98,7,2203.778,200.34345454545453,11,Cardinal Holdit Data Disk Pockets,New York City,New York,East,4,7,0,4,2,1,4,0,11,0,0
+MH-18025,Michelle Huthwaite,49,5,2984.948,298.4948,10,Avery 52,Seattle,Washington,South,5,5,0,5,0,4,1,10,0,0,0
+MH-18115,Mick Hernandez,5,9,5503.093,250.1405909090909,22,14-7/8 x 11 Blue Bar Computer Printout Paper,Jackson,Michigan,Central,5,9,8,0,0,4,18,0,0,22,2
+MJ-17740,Max Jones,22,7,6320.746,421.38306666666665,15,APC 7 Outlet Network SurgeArrest Surge Protector,Lancaster,California,West,0,12,3,5,0,3,7,15,0,0,2
+MK-17905,Michael Kennedy,28,8,2302.368,135.43341176470588,17,"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",Jacksonville,Florida,South,3,13,1,1,4,0,12,0,17,0,2
+MK-18160,Mike Kennedy,240,4,1031.602,93.78200000000001,11,Belkin QODE FastFit Bluetooth Keyboard,San Francisco,California,South,0,10,1,0,0,0,11,11,0,0,0
+ML-17395,Marina Lichtenstein,69,9,2722.843,136.14215,20,#6 3/4 Gummed Flap White Envelopes,Los Angeles,California,West,3,10,7,0,0,3,17,0,20,0,2
+ML-17410,Maris LaWare,54,5,2885.2599999999998,206.08999999999997,14,Acco 3-Hole Punch,Phoenix,Arizona,Central,5,8,1,1,0,2,11,14,0,0,0
+ML-17755,Max Ludwig,29,7,2071.914,159.37800000000001,13,"Acme 10"" Easy Grip Assistive Scissors",Springfield,Virginia,South,2,10,1,0,1,0,12,0,0,13,0
+ML-18040,Michelle Lonsdale,79,3,742.082,185.5205,4,"Career Cubicle Clock, 8 1/4"", Black",Albuquerque,New Mexico,Central,1,2,1,0,0,0,4,0,4,0,0
+ML-18265,Muhammed Lee,100,2,162.23200000000003,54.07733333333334,3,Logitech M510 Wireless Mouse,Seattle,Washington,West,0,1,2,2,1,0,0,3,0,0,0
+MM-17260,Magdelene Morse,168,4,1314.0230000000001,219.00383333333335,6,DAX Two-Tone Silver Metal Document Frame,New Rochelle,Delaware,East,4,2,0,1,0,0,5,6,0,0,0
+MM-17920,Michael Moore,7,10,3640.2560000000003,242.68373333333335,15,Acco 6 Outlet Guardian Premium Plus Surge Suppressor,Chesapeake,New York,East,4,10,1,0,1,4,10,15,0,0,2
+MM-18055,Michelle Moray,61,8,2749.881,144.7305789473684,19,AT&T SB67148 SynJ,New York City,New York,West,4,12,3,0,0,10,9,19,0,0,2
+MM-18280,Muhammed MacIntyre,85,9,775.414,64.61783333333334,12,3-ring staple pack,New York City,New York,Central,2,9,1,5,0,3,4,0,12,0,2
+MN-17935,Michael Nguyen,34,6,2477.946,247.7946,10,"""While you Were Out"" Message Book, One Form per Page",Dallas,Texas,Central,1,7,2,3,0,5,2,10,0,0,0
+MO-17500,Mary O'Rourke,72,4,922.487,184.4974,5,"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",New York City,New York,East,2,2,1,0,1,3,1,5,0,0,0
+MO-17800,Meg O'Connel,104,8,1687.0269999999998,153.3660909090909,11,12-1/2 Diameter Round Wall Clock,Chicago,Illinois,Central,6,4,1,0,0,3,8,0,0,11,2
+MO-17950,Michael Oakman,180,2,154.288,38.572,4,APC 7 Outlet Network SurgeArrest Surge Protector,Dallas,Texas,Central,0,1,3,0,0,0,4,4,0,0,0
+MP-17470,Mark Packer,718,6,2945.822,245.4851666666667,12,4009 Highlighters by Sanford,New York City,New York,East,5,5,2,8,0,0,4,0,0,12,1
+MP-17965,Michael Paige,72,9,3983.6420000000003,199.18210000000002,20,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",Mcallen,Texas,Central,4,10,6,0,0,12,8,0,20,0,2
+MP-18175,Mike Pelletier,16,8,4757.332,264.29622222222224,18,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Milwaukee,California,West,7,10,1,1,0,8,9,0,0,18,2
+MR-17545,Mathew Reese,125,4,639.178,106.52966666666667,6,DXL Angle-View Binders with Locking Rings by Samsill,New York City,New York,East,1,4,1,4,0,0,2,0,0,6,0
+MS-17365,Maribeth Schnelling,273,10,7443.6900000000005,310.15375,24,"ACCOHIDE 3-Ring Binder, Blue, 1""",Chicago,California,West,5,16,3,0,0,8,16,24,0,0,2
+MS-17530,MaryBeth Skach,434,4,475.65599999999995,67.95085714285713,7,"Executive Impressions 12"" Wall Clock",Seattle,Washington,West,3,3,1,0,3,2,2,7,0,0,1
+MS-17710,Maurice Satty,413,6,1613.402,107.56013333333334,15,Adjustable Depth Letter/Legal Cart,Fort Worth,Texas,Central,3,9,3,0,4,6,5,15,0,0,1
+MS-17770,Maxwell Schwartz,121,9,3144.678,165.5093684210526,19,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",Seattle,New York,East,1,15,3,1,0,2,16,19,0,0,2
+MS-17830,Melanie Seite,452,4,370.348,74.06960000000001,5,12-1/2 Diameter Round Wall Clock,Laredo,Texas,Central,2,2,1,0,0,1,4,5,0,0,1
+MS-17980,Michael Stewart,26,6,855.116,77.73781818181818,11,DIXON Ticonderoga Erasable Checking Pencils,Philadelphia,Pennsylvania,East,2,6,3,1,0,1,9,0,11,0,0
+MT-17815,Meg Tillman,49,6,2890.1389999999997,289.0139,10,Advantus Motivational Note Cards,Jackson,Mississippi,South,1,8,1,2,0,0,8,10,0,0,0
+MT-18070,Michelle Tran,203,4,1319.4497999999999,119.94998181818181,11,Alphabetical Labels for Top Tab Filing,Houston,Texas,Central,2,8,1,3,0,0,8,0,0,11,0
+MV-17485,Mark Van Huff,27,9,1560.05,104.00333333333333,15,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",Houston,Texas,West,5,10,0,5,0,4,6,15,0,0,2
+MV-18190,Mike Vittorini,19,7,1734.574,157.68854545454545,11,"Angle-D Binders with Locking Rings, Label Holders",Los Angeles,California,West,1,7,3,3,1,0,7,11,0,0,0
+MW-18220,Mitch Webber,17,7,5341.900000000001,381.56428571428575,14,Acco Perma 4000 Stacking Storage Drawers,New York City,New York,East,2,5,7,6,2,1,5,14,0,0,2
+MW-18235,Mitch Willingham,44,2,5253.876,1751.2920000000001,3,Bady BDG101FRU Card Printer,Virginia Beach,Virginia,South,0,1,2,0,1,0,2,0,3,0,0
+MY-17380,Maribeth Yedwab,29,7,2254.285,173.40653846153845,13,Avery 507,Parker,Colorado,West,2,9,2,1,0,0,12,0,13,0,0
+MY-18295,Muhammed Yedwab,71,10,3601.88,189.57263157894738,19,"""While you Were Out"" Message Book, One Form per Page",Baltimore,Maryland,East,3,12,4,0,2,2,15,0,19,0,2
+MZ-17335,Maria Zettner,30,4,593.606,98.93433333333333,6,Advantus Plastic Paper Clips,Phoenix,California,West,2,3,1,2,0,2,2,0,0,6,0
+MZ-17515,Mary Zewe,282,6,2564.906,256.4906,10,Avery Non-Stick Binders,Arlington,Texas,West,1,8,1,4,0,1,5,0,10,0,0
+NB-18580,Nicole Brennan,1165,2,273.87199999999996,136.93599999999998,2,Belkin 8 Outlet SurgeMaster II Gold Surge Protector,Bossier City,Louisiana,East,1,1,0,0,0,1,1,0,2,0,1
+NB-18655,Nona Balk,19,9,1972.599,116.03523529411764,17,Avery 487,Milwaukee,Florida,Central,3,13,1,5,4,1,7,0,17,0,2
+NC-18340,Nat Carroll,224,5,2461.404,144.7884705882353,17,Staples,Fargo,Michigan,Central,0,14,3,6,5,5,1,17,0,0,0
+NC-18415,Nathan Cano,41,6,2218.9900000000002,158.49928571428572,14,Advantus Rolling Drawer Organizers,Jacksonville,North Carolina,South,2,11,1,5,0,0,9,14,0,0,0
+NC-18535,Nick Crebassa,6,7,8241.739,549.4492666666666,15,AT&T CL2909,San Francisco,California,West,2,8,5,2,0,2,11,0,15,0,2
+NC-18625,Noah Childs,204,5,1821.7420000000002,202.4157777777778,9,Avery 501,Aurora,Texas,Central,2,5,2,1,0,0,8,0,9,0,0
+ND-18370,Natalie DeCherney,27,9,4326.139,240.34105555555556,18,"ACCOHIDE 3-Ring Binder, Blue, 1""",San Francisco,New York,West,2,11,5,5,0,5,8,18,0,0,2
+ND-18460,Neil Ducich,183,6,2893.455,361.681875,8,"24 Capacity Maxi Data Binder Racks, Pearl",Chesapeake,Virginia,South,1,5,2,3,0,1,4,0,8,0,0
+NF-18385,Natalie Fritzler,79,6,8080.474,621.5749230769231,13,Advantus Motivational Note Cards,Newark,Ohio,East,5,4,4,6,1,1,5,13,0,0,2
+NF-18475,Neil Französisch,525,4,377.162,94.2905,4,Cisco 8x8 Inc. 6753i IP Business Phone System,Jacksonville,Florida,Central,0,3,1,0,0,0,4,0,0,4,1
+NF-18595,Nicole Fjeld,114,7,2031.472,169.28933333333333,12,Avery Binding System Hidden Tab Executive Style Index Sets,New York City,California,East,5,7,0,3,0,3,6,0,0,12,0
+NG-18355,Nat Gilpin,48,5,1869.58,116.84875,16,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",New York City,New York,East,5,8,3,0,5,5,6,0,16,0,0
+NG-18430,Nathan Gelder,48,5,1395.938,155.10422222222223,9,Avery 476,Austin,California,Central,0,8,1,1,0,3,5,9,0,0,0
+NH-18610,Nicole Hansen,189,6,2518.6659999999997,279.8517777777777,9,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Detroit,Michigan,Central,2,5,2,0,0,1,8,0,9,0,0
+NK-18490,Neil Knudson,70,7,572.048,52.004363636363635,11,Acme Value Line Scissors,San Francisco,California,West,0,10,1,3,0,3,5,0,0,11,0
+NL-18310,Nancy Lomonaco,58,4,1418.09,141.809,10,Document Clip Frames,Danville,California,West,2,7,1,0,0,7,3,0,0,10,0
+NM-18445,Nathan Mautz,160,7,6459.344,461.3817142857143,14,Bevis 36 x 72 Conference Tables,New York City,New York,East,4,6,4,1,0,5,8,0,0,14,2
+NM-18520,Neoma Murray,244,10,2161.9790000000003,144.13193333333336,14,3M Polarizing Light Filter Sleeves,Amarillo,California,West,4,9,2,7,1,0,7,15,0,0,2
+NP-18325,Naresj Patel,25,6,5529.62,263.3152380952381,21,AT&T 1080 Corded phone,New York City,New York,East,6,9,6,10,0,8,3,21,0,0,0
+NP-18670,Nora Paige,58,5,3908.402,390.8402,10,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",Lakewood,New Jersey,Central,2,4,4,2,0,1,7,10,0,0,0
+NP-18685,Nora Pelletier,406,5,1164.73,194.12166666666667,6,Catalog Binders with Expanding Posts,Niagara Falls,New York,East,1,4,1,0,0,3,3,0,0,6,1
+NP-18700,Nora Preis,138,7,7903.1825,607.9371153846154,12,Economy Rollaway Files,Chicago,California,West,4,7,2,0,0,7,6,13,0,0,2
+NR-18550,Nick Radford,210,5,2367.277,182.09823076923078,13,"Bevis Round Conference Table Top, X-Base",Pembroke Pines,Florida,South,4,6,3,2,0,1,10,13,0,0,0
+NS-18505,Neola Schneider,6,4,2575.8630000000003,171.72420000000002,15,12-1/2 Diameter Round Wall Clock,Dallas,Texas,Central,3,9,3,5,0,10,0,15,0,0,0
+NS-18640,Noel Staavos,174,12,2857.753,124.25013043478262,23,"ACCOHIDE 3-Ring Binder, Blue, 1""",Columbus,Ohio,West,6,14,3,6,5,1,11,0,23,0,2
+NW-18400,Natalie Webber,172,7,7234.014,328.8188181818182,22,Anker Astro Mini 3000mAh Ultra-Compact Portable Charger,Philadelphia,Pennsylvania,East,6,10,6,2,0,0,20,22,0,0,2
+NZ-18565,Nick Zandusky,85,9,2488.31,124.4155,19,GBC Standard Therm-A-Bind Covers,Columbus,Ohio,West,3,15,2,6,1,4,9,0,0,20,2
+ON-18715,Odella Nelson,410,9,1567.52,104.50133333333333,15,50 Colored Long Pencils,Clinton,Maryland,East,3,10,2,2,1,3,9,0,15,0,2
+OT-18730,Olvera Toch,65,5,3818.624,381.8624,10,Avery 473,Bethlehem,California,West,3,7,0,3,0,0,7,10,0,0,0
+PA-19060,Pete Armstrong,103,6,729.408,104.20114285714286,7,50 Colored Long Pencils,Richmond,Indiana,Central,0,6,1,2,0,0,5,0,0,7,0
+PB-18805,Patrick Bzostek,25,3,740.356,74.0356,10,"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",Seattle,Washington,West,1,8,1,5,0,0,5,0,0,10,0
+PB-19105,Peter Bühler,57,4,688.324,137.66479999999999,5,Ames Color-File Green Diamond Border X-ray Mailers,Smyrna,Georgia,Central,0,3,2,0,0,1,4,5,0,0,0
+PB-19150,Philip Brown,97,8,1456.95,132.45000000000002,11,12-1/2 Diameter Round Wall Clock,Los Angeles,California,West,4,6,1,0,1,0,10,11,0,0,2
+PB-19210,Phillip Breyer,687,2,132.738,66.369,2,Mediabridge Sport Armband iPhone 5s,Philadelphia,Oklahoma,Central,0,1,1,1,0,0,1,0,2,0,1
+PC-18745,Pamela Coakley,2,4,1832.064,366.4128,5,"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",San Francisco,California,West,2,3,0,2,0,2,1,0,5,0,0
+PC-19000,Pauline Chand,881,2,1061.488,353.82933333333335,3,"Alliance Super-Size Bands, Assorted Sizes",Los Angeles,California,West,1,2,0,0,0,0,3,0,0,3,1
+PF-19120,Peter Fuller,834,4,9062.864,476.99284210526315,19,ARKON Windshield Dashboard Air Vent Car Mount Holder,New York City,New York,East,5,10,4,0,0,3,16,19,0,0,1
+PF-19165,Philip Fox,196,6,2770.0,277.0,10,Avery 511,San Diego,California,West,3,5,2,0,0,4,6,10,0,0,0
+PF-19225,Phillip Flathmann,114,5,2206.128,220.61280000000002,10,Acco Translucent Poly Ring Binders,Los Angeles,California,West,2,5,3,7,0,0,3,10,0,0,0
+PG-18820,Patrick Gardner,36,13,3086.9069999999997,118.72719230769229,25,"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",New York City,California,West,6,12,8,7,5,0,14,26,0,0,2
+PG-18895,Paul Gonzalez,57,9,1987.164,116.892,17,Avery 511,Los Angeles,California,West,2,9,6,0,0,5,12,17,0,0,2
+PH-18790,Patricia Hirasaki,70,1,729.648,364.824,2,"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",Lakeland,Florida,South,2,0,0,0,0,0,2,0,0,2,0
+PJ-18835,Patrick Jones,39,8,1220.0900000000001,93.85307692307694,13,Brown Kraft Recycled Envelopes,New York City,New York,South,0,9,4,3,0,1,9,0,13,0,2
+PJ-19015,Pauline Johnson,134,6,1677.536,239.648,7,"Eldon Stackable Tray, Side-Load, Legal, Smoke",Santa Ana,California,West,3,2,2,2,3,2,0,7,0,0,0
+PK-18910,Paul Knutson,483,2,1441.152,480.384,3,Avery 518,Philadelphia,Pennsylvania,East,0,2,1,2,0,0,1,0,0,3,1
+PK-19075,Pete Kriz,9,12,8646.934,345.87735999999995,25,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",New York City,New York,East,6,18,1,0,1,9,15,25,0,0,2
+PL-18925,Paul Lucas,15,5,239.481,29.935125,8,Avery 475,Philadelphia,Pennsylvania,East,1,6,1,0,0,0,8,0,0,8,0
+PM-18940,Paul MacIntyre,386,3,1405.402,351.3505,4,Bevis Round Conference Table Top & Single Column Base,Texas City,Texas,Central,3,1,0,1,0,0,3,4,0,0,1
+PM-19135,Peter McVee,51,4,4115.662,587.9517142857143,7,Avery 50,Dover,New Hampshire,East,2,2,3,1,0,3,3,0,0,7,0
+PN-18775,Parhena Norris,30,8,1467.152,112.85784615384615,13,9-3/4 Diameter Round Wall Clock,Clarksville,Tennessee,South,4,7,2,3,0,4,6,0,0,13,2
+PO-18850,Patrick O'Brill,4,11,7473.8282,339.7194636363636,22,Aastra 57i VoIP phone,Philadelphia,Florida,South,5,14,3,6,0,5,11,22,0,0,2
+PO-18865,Patrick O'Donnell,0,7,2493.214,191.7856923076923,13,Avery 475,Indianapolis,Indiana,East,4,5,4,0,0,4,9,13,0,0,0
+PO-19180,Philisse Overcash,160,9,4893.043,271.8357222222222,18,AT&T 841000 Phone,Roseville,Minnesota,Central,3,10,5,1,2,2,13,0,0,18,2
+PO-19195,Phillina Ober,86,5,1056.8580000000002,105.68580000000001,10,"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",Bayonne,Illinois,East,1,6,3,0,1,5,4,0,0,10,0
+PP-18955,Paul Prost,97,10,7252.608,213.312,34,Aastra 57i VoIP phone,Springfield,Georgia,East,8,19,7,0,12,5,17,0,0,34,2
+PR-18880,Patrick Ryan,36,5,1840.1779999999999,153.34816666666666,12,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Oakland,California,West,5,5,2,8,1,1,2,12,0,0,0
+PS-18760,Pamela Stobb,107,6,2181.479,103.87995238095237,21,Aluminum Screw Posts,Los Angeles,California,East,6,11,4,10,1,4,6,21,0,0,0
+PS-18970,Paul Stevenson,69,8,1278.639,98.35684615384615,13,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Seattle,Washington,West,5,8,0,0,2,3,8,0,0,13,2
+PS-19045,Penelope Sewall,236,7,6843.634,526.4333846153846,13,"ACCOHIDE 3-Ring Binder, Blue, 1""",Harrisonburg,Virginia,South,2,9,2,4,0,1,8,0,0,13,2
+PT-19090,Pete Takahito,71,3,158.46,26.41,6,DAX Wood Document Frame.,Jacksonville,Florida,South,1,5,0,0,4,1,1,6,0,0,0
+PV-18985,Paul Van Hugh,89,5,2876.046,221.23430769230768,13,Belkin 5 Outlet SurgeMaster Power Centers,League City,California,West,3,8,2,4,0,0,9,0,0,13,0
+PW-19030,Pauline Webber,46,10,3454.916,265.76276923076927,13,APC 7 Outlet Network SurgeArrest Surge Protector,New York City,New York,East,3,7,3,1,0,5,7,0,13,0,2
+PW-19240,Pierre Wener,464,7,3922.415,326.86791666666664,12,"1/4 Fold Party Design Invitations & White Envelopes, 24 8-1/2"" X 11"" Cards, 25 Env./Pack",Wilmington,Delaware,East,3,8,1,1,0,7,4,12,0,0,1
+QJ-19255,Quincy Jones,25,9,6108.338,469.8721538461538,13,#10 Self-Seal White Envelopes,Philadelphia,Pennsylvania,East,1,8,4,0,0,2,11,0,13,0,2
+RA-19285,Ralph Arnett,5,9,2617.906,153.9944705882353,17,Acme Value Line Scissors,Lakeland,California,West,3,10,4,3,3,5,6,17,0,0,2
+RA-19885,Ruben Ausman,55,6,3546.224,272.78646153846154,13,Staple envelope,San Francisco,California,West,2,10,1,1,5,0,7,0,13,0,0
+RA-19915,Russell Applegate,12,9,4793.543,217.88831818181816,22,Acco D-Ring Binder w/DublLock,Columbus,Texas,Central,4,14,4,1,0,5,16,22,0,0,2
+RA-19945,Ryan Akin,61,5,1686.9225,187.43583333333333,9,Balt Solid Wood Rectangular Table,Dallas,Florida,Central,3,5,1,1,3,3,2,9,0,0,0
+RB-19330,Randy Bradley,68,2,1008.1959999999999,168.03266666666664,6,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Austin,Texas,Central,1,4,1,0,0,0,6,6,0,0,0
+RB-19360,Raymond Buch,96,6,15117.339,839.8521666666667,18,3M Polarizing Light Filter Sleeves,Auburn,New York,East,2,12,4,3,0,8,7,18,0,0,2
+RB-19435,Richard Bierner,41,7,1864.1560000000002,143.3966153846154,13,Belkin 8 Outlet Surge Protector,San Diego,California,West,2,7,4,0,3,6,4,13,0,0,0
+RB-19465,Rick Bensley,9,12,4715.466,205.02026086956522,22,Avaya 4621SW VoIP phone,Chicago,Illinois,Central,7,10,6,2,5,3,13,0,0,23,2
+RB-19570,Rob Beeghly,25,5,528.546,58.72733333333334,9,"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",Columbus,Indiana,Central,2,5,2,5,0,1,3,9,0,0,0
+RB-19645,Robert Barroso,648,5,221.084,31.583428571428573,7,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",Memphis,Tennessee,South,1,5,1,2,1,1,3,0,7,0,1
+RB-19705,Roger Barcio,54,4,2067.45,295.34999999999997,7,Bulldog Table or Wall-Mount Pencil Sharpener,New York City,New York,East,2,4,1,4,0,0,3,0,0,7,0
+RB-19795,Ross Baird,32,8,5633.316,312.962,17,Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,Philadelphia,North Carolina,South,3,11,4,1,0,4,13,0,0,18,2
+RC-19825,Roy Collins,369,6,966.409,96.6409,10,Belkin 6 Outlet Metallic Surge Strip,Pasadena,California,West,2,7,1,6,2,0,2,10,0,0,1
+RC-19960,Ryan Crowe,110,4,652.644,81.5805,8,"BlueLounge Milo Smartphone Stand, White/Metallic",Columbus,Ohio,East,2,5,1,1,0,6,1,8,0,0,0
+RD-19480,Rick Duston,72,8,4272.93,284.862,14,"Green Canvas Binder for 8-1/2"" x 14"" Sheets",San Francisco,California,West,3,9,3,0,0,1,14,15,0,0,2
+RD-19585,Rob Dowd,180,9,2832.904,157.38355555555555,18,"Angle-D Binders with Locking Rings, Label Holders",Henderson,California,South,2,10,6,4,0,0,14,18,0,0,2
+RD-19660,Robert Dilbeck,114,4,2745.892,686.473,4,Avery 476,Independence,Missouri,Central,2,2,0,1,0,0,3,0,0,4,0
+RD-19720,Roger Demir,21,10,1419.737,70.98685,20,Acco Perma 4000 Stacking Storage Drawers,Morgan Hill,California,West,3,14,3,2,0,1,17,20,0,0,2
+RD-19810,Ross DeVincentis,14,8,1137.616,71.101,15,Xerox 2,Chicago,Illinois,Central,2,13,1,6,0,6,4,0,0,16,2
+RD-19900,Ruben Dartt,114,9,3133.924,149.2344761904762,21,Avery 516,San Diego,California,West,4,11,6,2,0,8,11,21,0,0,2
+RD-19930,Russell D'Ascenzo,42,4,970.942,97.0942,10,Avery Hidden Tab Dividers for Binding Systems,Dallas,Texas,Central,2,6,2,0,2,0,8,10,0,0,0
+RE-19405,Ricardo Emerson,1097,1,48.36,48.36,1,Acco 6 Outlet Guardian Standard Surge Suppressor,Kent,Ohio,East,0,1,0,0,0,1,0,1,0,0,1
+RE-19450,Richard Eichhorn,302,4,666.52,111.08666666666666,6,Acco Hot Clips Clips to Go,Eau Claire,California,Central,1,4,1,2,0,1,3,6,0,0,0
+RF-19345,Randy Ferguson,390,8,3309.15,206.821875,16,"24 Capacity Maxi Data Binder Racks, Pearl",Marietta,Georgia,South,4,10,2,1,0,9,6,0,16,0,2
+RF-19735,Roland Fjeld,89,7,2341.2960000000003,167.2354285714286,14,Advantus SlideClip Paper Clips,Oklahoma City,Michigan,Central,2,8,4,2,0,3,9,14,0,0,0
+RF-19840,Roy Französisch,6,7,938.862,93.8862,10,Alphabetical Labels for Top Tab Filing,Chesapeake,Virginia,South,1,8,1,2,1,1,6,10,0,0,0
+RH-19495,Rick Hansen,32,5,3621.3759999999997,452.67199999999997,8,Avery Durable Binders,New York City,New York,East,1,6,1,1,5,0,2,8,0,0,0
+RH-19510,Rick Huthwaite,467,6,6979.18,581.5983333333334,11,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",Providence,California,West,1,7,4,6,0,3,3,0,0,12,1
+RH-19555,Ritsa Hightower,519,2,740.382,246.79399999999998,3,Fellowes High-Stak Drawer Files,Charlotte,North Carolina,South,0,3,0,0,0,0,3,3,0,0,1
+RH-19600,Rob Haberlin,534,3,2085.7400000000002,189.61272727272728,11,AT&T 17929 Lendline Telephone,Carol Stream,Illinois,South,3,6,2,0,1,5,5,11,0,0,1
+RK-19300,Ralph Kennedy,119,3,1460.192,182.524,8,Eldon Portable Mobile Manager,South Bend,Indiana,Central,1,6,1,0,0,7,1,8,0,0,0
+RL-19615,Rob Lucas,121,8,6234.91,259.78791666666666,24,Advantus Plastic Paper Clips,Chicago,Illinois,Central,4,12,8,7,0,11,6,24,0,0,2
+RM-19375,Raymond Messe,345,6,1453.4740000000002,161.49711111111114,9,Avanti 4.4 Cu. Ft. Refrigerator,Burlington,Vermont,East,2,5,2,2,0,0,7,9,0,0,1
+RM-19675,Robert Marley,6,5,5979.096,543.5541818181817,11,AT&T TR1909W,Los Angeles,California,East,1,4,6,2,0,5,4,0,0,11,0
+RM-19750,Roland Murray,299,1,98.35,49.175,2,"Westinghouse Floor Lamp with Metal Mesh Shade, Black",New York City,New York,East,1,1,0,0,0,2,0,2,0,0,1
+RO-19780,Rose O'Brian,35,7,3815.478,317.9565,12,AT&T CL82213,Houston,Texas,Central,3,7,2,3,0,4,5,12,0,0,2
+RP-19270,Rachel Payne,496,4,954.6451999999999,79.55376666666666,11,Avery Durable Slant Ring Binders With Label Holder,San Francisco,California,West,1,10,1,0,0,6,6,0,12,0,1
+RP-19390,Resi Pölking,33,12,5153.084,206.12336,25,"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",Seattle,Washington,East,3,19,3,8,8,2,7,25,0,0,2
+RP-19855,Roy Phan,28,7,2055.356,146.81114285714287,14,"Acco Smartsocket Table Surge Protector, 6 Color-Coded Adapter Outlets",Los Angeles,California,Central,0,9,5,0,0,0,14,0,14,0,0
+RR-19315,Ralph Ritter,19,2,615.9320000000001,153.98300000000003,4,Avery 52,Aurora,Illinois,Central,2,2,0,0,3,0,1,4,0,0,0
+RR-19525,Rick Reed,170,6,3302.2619999999997,330.22619999999995,10,Advantus Motivational Note Cards,Lowell,Massachusetts,East,2,7,1,1,0,4,5,0,10,0,0
+RS-19420,Ricardo Sperren,76,5,3221.29,357.9211111111111,9,Balt Solid Wood Round Tables,Meriden,Connecticut,East,3,6,0,4,0,4,1,0,9,0,0
+RS-19765,Roland Schwarz,36,8,4159.77,297.1264285714286,14,AT&T TR1909W,Los Angeles,South Carolina,South,2,7,5,3,1,3,7,0,14,0,2
+RS-19870,Roy Skaria,19,2,22.328,7.442666666666667,3,Ideal Clamps,Burlington,Iowa,Central,0,3,0,0,0,2,1,0,0,3,0
+RW-19540,Rick Wilson,120,7,7397.401,321.6261304347826,23,2300 Heavy-Duty Transfer File Systems by Perma,Brentwood,California,West,6,15,2,1,2,1,19,0,23,0,2
+RW-19630,Rob Williams,89,9,3279.746,204.984125,16,Acco Perma 4000 Stacking Storage Drawers,Chicago,California,Central,1,11,4,5,0,3,8,0,16,0,2
+RW-19690,Robert Waldorf,79,5,3495.646,233.04306666666668,15,3M Organizer Strips,Springfield,Missouri,Central,0,12,3,3,0,10,2,15,0,0,0
+SA-20830,Sue Ann Reed,63,10,4767.3415,227.01626190476193,21,3M Hangers With Command Adhesive,Fresno,California,South,6,14,1,6,0,4,11,21,0,0,2
+SB-20170,Sarah Bern,201,3,1348.02,192.5742857142857,7,"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",New York City,New York,East,1,6,0,0,0,0,7,7,0,0,0
+SB-20185,Sarah Brown,188,6,6410.996,534.2496666666667,12,Aastra 57i VoIP phone,Los Angeles,California,West,2,4,6,2,0,3,7,12,0,0,0
+SB-20290,Sean Braxton,47,7,8057.891,473.9935882352941,17,Accohide Poly Flexible Ring Binders,Henderson,Kentucky,East,1,10,6,3,4,2,8,0,17,0,2
+SC-20020,Sam Craven,780,5,3362.9636,197.8213882352941,17,3.6 Cubic Foot Counter Height Office Refrigerator,Plano,Texas,Central,2,13,2,0,0,2,15,17,0,0,1
+SC-20050,Sample Company A,40,9,4624.572,308.3048,15,3M Hangers With Command Adhesive,Burbank,California,West,4,7,4,0,0,1,14,0,0,15,2
+SC-20095,Sanjit Chand,349,9,14142.334,642.8333636363636,22,Alliance Rubber Bands,Los Angeles,California,West,8,13,1,4,0,2,16,22,0,0,2
+SC-20230,Scot Coram,149,4,4371.958,397.45072727272725,11,Anker Astro Mini 3000mAh Ultra-Compact Portable Charger,Los Angeles,California,West,1,6,4,0,0,4,7,0,11,0,0
+SC-20260,Scott Cohen,187,8,3729.7929999999997,207.21072222222222,18,Acme Preferred Stainless Steel Scissors,San Francisco,California,West,3,11,4,5,0,5,8,0,18,0,2
+SC-20305,Sean Christensen,29,6,3650.473,365.0473,10,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",Philadelphia,California,Central,3,5,2,1,0,1,8,10,0,0,0
+SC-20380,Shahid Collister,30,9,5992.536,299.6268,20,14-7/8 x 11 Blue Bar Computer Printout Paper,Atlanta,Texas,South,5,11,4,4,0,3,13,20,0,0,2
+SC-20440,Shaun Chance,36,7,1874.998,187.4998,10,Avery Heavy-Duty EZD View Binder with Locking Rings,Lancaster,Pennsylvania,East,1,7,2,0,0,1,9,0,10,0,0
+SC-20575,Sonia Cooley,92,4,799.798,133.29966666666667,6,Avery Hi-Liter Smear-Safe Highlighters,Miami,Florida,South,1,5,0,1,0,0,5,6,0,0,0
+SC-20680,Steve Carroll,126,6,1254.64,156.83,8,AT&T 1080 Phone,Holland,California,West,1,4,3,1,0,0,7,0,0,8,0
+SC-20695,Steve Chapman,89,10,2576.408,184.02914285714286,14,Acco 6 Outlet Guardian Premium Plus Surge Suppressor,La Crosse,Wisconsin,Central,2,10,2,1,0,4,9,0,14,0,2
+SC-20725,Steven Cartwright,187,11,5226.21,201.0080769230769,26,Acme Stainless Steel Office Snips,Houston,California,West,5,16,5,8,0,6,12,26,0,0,2
+SC-20770,Stewart Carmichael,41,7,4492.657,213.93604761904763,21,"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",Philadelphia,Pennsylvania,East,3,13,5,4,0,14,3,0,21,0,2
+SC-20800,Stuart Calhoun,30,4,279.256,55.85119999999999,5,Binder Clips by OIC,Houston,Texas,Central,0,3,2,0,2,0,3,5,0,0,0
+SC-20845,Sung Chung,414,1,14.112,14.112,1,Newell 332,Arlington Heights,Illinois,Central,0,1,0,0,0,0,1,1,0,0,1
+SD-20485,Shirley Daniels,200,9,6121.114,291.481619047619,21,Acme Forged Steel Scissors with Black Enamel Handles,Alexandria,Virginia,Central,5,11,5,9,0,2,10,0,0,21,2
+SE-20110,Sanjit Engle,9,11,12209.438,642.602,19,Acrylic Self-Standing Desk Frames,Arlington,California,West,3,11,5,1,0,4,14,19,0,0,2
+SF-20065,Sandra Flanagan,59,7,763.546,84.83844444444445,9,Acco 6 Outlet Guardian Premium Surge Suppressor,Clifton,Massachusetts,East,3,6,0,4,1,3,1,9,0,0,0
+SF-20200,Sarah Foster,59,9,3422.786,228.18573333333333,15,Avery 487,Seattle,Washington,West,2,10,3,0,2,4,9,15,0,0,2
+SF-20965,Sylvia Foulston,48,9,3336.535,196.26676470588234,17,BIC Brite Liner Grip Highlighters,Bedford,Texas,Central,3,12,2,4,0,1,12,0,17,0,2
+SG-20080,Sandra Glassco,8,3,3406.5809999999997,309.6891818181818,11,Acme Tagit Stainless Steel Antibacterial Scissors,Redlands,California,West,2,8,1,1,9,0,1,11,0,0,0
+SG-20470,Sheri Gordon,183,8,1884.7980000000002,134.6284285714286,14,Acco 6 Outlet Guardian Premium Surge Suppressor,Atlanta,Georgia,South,5,8,1,5,1,2,6,14,0,0,2
+SG-20605,Speros Goranitis,108,5,3118.8920000000003,259.90766666666667,12,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",New York City,New York,East,1,7,4,0,0,1,11,12,0,0,0
+SG-20890,Susan Gilcrest,226,3,47.946,9.5892,5,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",Mcallen,Texas,Central,0,5,0,1,0,1,3,0,5,0,0
+SH-19975,Sally Hughsby,29,12,2465.6594999999998,102.7358125,24,#6 3/4 Gummed Flap White Envelopes,Seattle,Washington,West,4,18,2,0,0,1,23,0,24,0,2
+SH-20395,Shahid Hopkins,23,10,2180.718,145.38119999999998,15,3M Organizer Strips,Jacksonville,New York,East,2,10,3,2,1,2,10,15,0,0,2
+SH-20635,Stefanie Holloman,764,2,2096.392,1048.196,2,Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock,Jackson,California,South,2,0,0,0,0,0,2,0,2,0,1
+SJ-20125,Sanjit Jacobs,95,12,3949.656,164.569,23,Xerox 1964,Franklin,Texas,South,4,16,4,2,0,4,18,0,0,24,2
+SJ-20215,Sarah Jordon,29,6,1341.036,134.1036,9,DMI Arturo Collection Mission-style Design Wood Chair,Chicago,Illinois,Central,5,4,1,1,2,0,7,10,0,0,0
+SJ-20500,Shirley Jackson,253,5,1318.7759999999998,188.3965714285714,7,"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",Fairfield,California,East,1,4,2,0,0,3,4,7,0,0,0
+SK-19990,Sally Knutson,8,3,883.4089999999999,176.68179999999998,5,"Acme 10"" Easy Grip Assistive Scissors",New York City,New York,East,0,4,1,2,0,0,3,5,0,0,0
+SL-20155,Sara Luxemburg,70,6,3046.532,380.8165,8,Advantus Rolling Drawer Organizers,Durham,North Carolina,Central,2,5,1,2,2,1,3,0,0,8,0
+SM-20005,Sally Matthias,421,4,244.49399999999997,40.748999999999995,6,"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",New York City,New York,East,2,4,0,0,0,1,5,6,0,0,1
+SM-20320,Sean Miller,79,5,25043.05,1669.5366666666666,15,Avery Fluorescent Highlighter Four-Color Set,Jacksonville,Florida,South,3,9,3,0,1,0,14,0,0,15,2
+SM-20905,Susan MacKendrick,606,1,1043.041,173.84016666666665,6,Avery 496,Newark,Ohio,East,1,2,3,6,0,0,0,6,0,0,1
+SM-20950,Suzanne McNair,25,11,4464.862,223.2431,19,Southworth Parchment Paper & Envelopes,Philadelphia,Pennsylvania,East,6,14,0,0,0,4,16,0,20,0,2
+SN-20560,Skye Norling,111,6,1860.4180000000001,124.02786666666667,15,Aluminum Screw Posts,Paterson,New Jersey,West,2,13,0,0,3,0,12,0,0,15,0
+SN-20710,Steve Nguyen,79,7,3127.9592,164.62943157894736,19,"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",Houston,Texas,Central,4,12,3,0,0,0,19,0,0,19,2
+SO-20335,Sean O'Donnell,29,6,2602.5755,173.50503333333333,15,Bretford CR4500 Series Slim Rectangular Table,Columbia,New York,South,7,7,1,2,0,0,13,15,0,0,0
+SP-20545,Sibella Parks,327,6,1306.086,130.6086,10,"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",Chicago,New York,East,2,7,1,0,0,2,8,0,10,0,0
+SP-20620,Stefania Perrino,47,9,5440.319,226.67995833333336,24,AT&T 1080 Corded phone,Philadelphia,Pennsylvania,East,5,12,7,1,0,7,16,0,24,0,2
+SP-20650,Stephanie Phelps,386,9,1872.4360000000001,124.82906666666668,15,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",Akron,California,East,1,9,5,5,0,0,10,0,15,0,2
+SP-20860,Sung Pak,79,10,4282.94,178.45583333333332,23,SanDisk Ultra 16 GB MicroSDHC Class 10 Memory Card,Philadelphia,Pennsylvania,East,6,11,7,2,0,0,22,0,24,0,2
+SP-20920,Susan Pistek,70,6,3990.689,285.0492142857143,14,Assorted Color Push Pins,Columbus,Ohio,East,4,8,2,1,5,0,8,14,0,0,0
+SR-20425,Sharelle Roach,8,5,3233.4809999999998,359.27566666666667,9,Cardinal Holdit Business Card Pockets,Louisville,Colorado,West,3,5,1,0,0,2,7,0,0,9,0
+SR-20740,Steven Roelle,196,8,4345.886,362.1571666666667,12,"#10 White Business Envelopes,4 1/8 x 9 1/2",Bloomington,Indiana,Central,1,8,3,1,1,0,10,0,0,12,2
+SS-20140,Saphhira Shifley,15,8,1324.028,63.04895238095238,21,2300 Heavy-Duty Transfer File Systems by Perma,Columbus,Georgia,South,4,12,5,0,0,3,18,0,21,0,2
+SS-20410,Shahid Shariari,110,6,3056.807,254.73391666666666,12,"Acco Clips to Go Binder Clips, 24 Clips in Two Sizes",Los Angeles,Illinois,Central,3,7,2,3,0,2,7,12,0,0,0
+SS-20515,Shirley Schmidt,491,3,613.4,102.23333333333333,5,"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",Louisville,Kentucky,South,1,3,2,0,0,0,6,0,0,6,1
+SS-20590,Sonia Sunley,432,6,418.49,46.49888888888889,9,"ACCOHIDE 3-Ring Binder, Blue, 1""",San Francisco,California,West,0,6,3,0,3,0,6,9,0,0,1
+SS-20875,Sung Shariari,120,5,964.636,64.30906666666667,15,"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",Dallas,Florida,East,2,11,2,0,0,0,15,15,0,0,0
+ST-20530,Shui Tom,125,7,433.34,36.111666666666665,12,Avery Arch Ring Binders,Philadelphia,Pennsylvania,East,1,8,3,0,0,6,6,12,0,0,0
+SU-20665,Stephanie Ulpright,20,7,2595.364,144.1868888888889,18,"Acme 10"" Easy Grip Assistive Scissors",Chicago,Illinois,Central,2,10,6,1,11,4,2,0,0,18,0
+SV-20365,Seth Vernon,101,10,11470.95,358.4671875,31,"Situations Contoured Folding Chairs, 4/Set",New York City,New York,East,15,9,8,5,0,8,19,32,0,0,2
+SV-20785,Stewart Visinsky,320,9,4105.305,164.21220000000002,25,Acme Elite Stainless Steel Scissors,Philadelphia,California,East,5,16,4,0,2,1,22,25,0,0,2
+SV-20815,Stuart Van,76,4,1271.09,211.84833333333333,6,Avery Hi-Liter Smear-Safe Highlighters,Houston,Texas,Central,1,3,2,4,0,0,2,0,6,0,0
+SV-20935,Susan Vittorini,2,8,1903.491,146.4223846153846,13,AT&T 841000 Phone,Fairfield,Ohio,East,3,5,5,1,1,3,8,13,0,0,2
+SW-20245,Scot Wooten,81,7,1085.078,108.5078,10,Belkin F8E887 USB Wired Ergonomic Keyboard,Greenville,California,East,4,5,1,0,2,2,6,10,0,0,0
+SW-20275,Scott Williamson,30,6,1966.65,280.95,7,BlackBerry Q10,New York City,New York,East,1,5,1,0,0,0,7,7,0,0,0
+SW-20350,Sean Wendt,162,3,1019.044,169.84066666666666,6,"Advantus Push Pins, Aluminum Head",Cleveland,Ohio,Central,0,4,2,0,0,2,4,0,0,6,0
+SW-20455,Shaun Weien,162,6,2835.564,354.4455,8,"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",San Diego,California,West,2,4,2,1,0,0,7,8,0,0,0
+SW-20755,Steven Ward,534,2,758.6959999999999,94.83699999999999,8,Acco Hanging Data Binders,New York City,New York,East,1,5,2,0,0,8,0,0,8,0,1
+SZ-20035,Sam Zeldin,35,11,3625.329,181.26645000000002,20,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Houston,Texas,Central,4,11,5,9,0,8,3,0,0,20,2
+TA-21385,Tom Ashbrook,69,4,14595.62,1459.5620000000001,10,Canon imageCLASS 2200 Advanced Copier,New York City,New York,Central,2,4,4,6,0,0,4,0,0,10,2
+TB-21055,Ted Butterfield,119,4,1451.361,85.37417647058824,17,"Array Parchment Paper, Assorted Colors",Troy,New York,East,2,13,2,7,0,10,0,17,0,0,0
+TB-21175,Thomas Boland,58,4,3589.2959999999994,326.2996363636363,11,Acme Value Line Scissors,Henderson,Kentucky,South,1,9,1,0,0,4,7,0,11,0,0
+TB-21190,Thomas Brumley,49,4,816.1740000000001,204.04350000000002,4,12 Colored Short Pencils,Fayetteville,California,West,2,2,0,0,1,1,2,0,0,4,0
+TB-21250,Tim Brockman,349,7,1602.376,84.33557894736842,19,Acco D-Ring Binder w/DublLock,Salem,Oregon,West,2,12,5,5,0,4,10,19,0,0,0
+TB-21280,Toby Braunhardt,583,6,2198.4500000000003,199.85909090909092,11,9-3/4 Diameter Round Wall Clock,New York City,District of Columbia,East,1,7,3,3,2,0,6,11,0,0,1
+TB-21355,Todd Boyes,146,5,834.328,64.17907692307692,13,14-7/8 x 11 Blue Bar Computer Printout Paper,Sandy Springs,Georgia,East,2,9,2,7,0,2,4,0,13,0,0
+TB-21400,Tom Boeckenhauer,202,6,9108.742,569.296375,16,"3M Polarizing Task Lamp with Clamp Arm, Light Gray",Seattle,Washington,West,3,9,4,0,2,13,1,16,0,0,2
+TB-21520,Tracy Blumstein,107,9,4737.486,236.8743,20,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",Philadelphia,Pennsylvania,East,4,14,2,5,0,3,12,20,0,0,2
+TB-21595,Troy Blackwell,285,4,1240.871,248.1742,5,"Bush Andora Bookcase, Maple/Graphite Gray Finish",Springfield,Ohio,Central,4,0,1,0,1,1,3,5,0,0,0
+TB-21625,Trudy Brown,30,9,2797.6679999999997,186.51119999999997,15,Acco Hot Clips Clips to Go,New York City,New York,East,4,8,3,3,4,1,7,15,0,0,2
+TC-20980,Tamara Chand,399,5,19052.218,1587.6848333333335,12,Acco Perma 4000 Stacking Storage Drawers,Lafayette,Indiana,Central,0,10,2,2,0,0,10,0,12,0,2
+TC-21145,Theresa Coyne,106,1,1038.26,259.565,4,"Contico 72""H Heavy-Duty Storage System",Lakewood,New Jersey,East,2,1,1,0,0,0,4,0,4,0,0
+TC-21295,Toby Carlisle,27,8,4266.812,266.67575,16,Acco Suede Grain Vinyl Round Ring Binder,Westminster,California,West,3,8,5,5,2,2,7,16,0,0,2
+TC-21475,Tony Chapman,153,9,1244.976,113.17963636363638,11,Acme Value Line Scissors,Aurora,Colorado,West,3,7,1,4,0,2,5,0,0,11,2
+TC-21535,Tracy Collins,4,7,742.5580000000001,74.25580000000001,10,Acco Economy Flexible Poly Round Ring Binder,Los Angeles,California,West,2,5,3,2,1,3,4,0,0,10,0
+TD-20995,Tamara Dahlen,37,9,1434.548,89.65925,16,Acme Design Stainless Steel Bent Scissors,Bolingbrook,Illinois,Central,3,13,0,5,4,2,5,16,0,0,2
+TG-21310,Toby Gnade,337,5,3058.372,339.8191111111111,9,Avery 514,Mesa,Arizona,West,2,5,2,0,0,7,2,9,0,0,1
+TG-21640,Trudy Glocke,114,4,2074.661,207.4661,10,Acme Value Line Scissors,Long Beach,California,West,3,5,2,0,5,5,0,10,0,0,0
+TH-21100,Thea Hendricks,344,5,2422.824,346.11771428571427,7,4009 Highlighters by Sanford,San Diego,California,West,2,3,2,0,0,1,6,7,0,0,1
+TH-21115,Thea Hudgings,58,4,2942.772,326.9746666666667,9,Black & Decker Filter for Double Action Dustbuster Cordless Vac BLDV7210,Philadelphia,Pennsylvania,East,3,5,1,0,0,0,9,0,9,0,0
+TH-21235,Tiffany House,117,8,1022.201,78.63084615384615,13,Acme Tagit Stainless Steel Antibacterial Scissors,Dallas,California,Central,2,9,2,0,1,5,7,0,13,0,2
+TH-21550,Tracy Hopkins,72,7,4234.096,325.69969230769226,13,"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",Columbia,Maryland,East,4,6,3,4,1,0,8,0,0,13,2
+TM-21010,Tamara Manning,103,7,2819.026,187.93506666666664,15,"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",Auburn,New York,East,1,12,2,0,0,3,12,15,0,0,0
+TM-21490,Tony Molinari,130,3,1094.6779999999999,273.66949999999997,4,Hon Racetrack Conference Tables,Yonkers,New York,East,2,1,1,2,0,0,2,4,0,0,0
+TN-21040,Tanja Norvell,90,7,3130.221,260.85175,12,"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",Phoenix,Arizona,West,3,4,5,0,2,0,10,0,0,12,2
+TP-21130,Theone Pippenger,8,9,4454.0560000000005,278.37850000000003,16,Acco Smartsocket Color-Coded Six-Outlet AC Adapter Model Surge Protectors,Detroit,Michigan,Central,2,8,6,5,0,2,9,16,0,0,2
+TP-21415,Tom Prescott,104,5,5329.0048,532.90048,10,"Angle-D Binders with Locking Rings, Label Holders",Houston,Texas,Central,4,5,1,3,1,1,5,10,0,0,0
+TP-21565,Tracy Poddar,350,4,1936.6399999999999,193.664,10,"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",Eugene,Oregon,West,3,5,2,3,0,6,1,0,10,0,1
+TR-21325,Toby Ritter,193,5,675.942,96.56314285714286,7,"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",Belleville,New Jersey,West,2,3,2,2,0,0,5,7,0,0,0
+TS-21085,Thais Sissman,357,2,4.833,2.4165,2,Wilson Jones DublLock D-Ring Binders,Ormond Beach,Arizona,South,0,2,0,1,0,0,1,2,0,0,1
+TS-21160,Theresa Swint,504,6,2163.624,127.27199999999999,17,Assorted Color Push Pins,Toledo,Ohio,East,4,11,2,1,2,2,12,0,17,0,1
+TS-21205,Thomas Seio,198,7,5371.09,282.68894736842105,19,APC 7 Outlet Network SurgeArrest Surge Protector,Nashville,Tennessee,South,4,11,4,3,2,3,11,0,19,0,2
+TS-21340,Toby Swindell,226,5,974.782,81.23183333333334,12,"Acco PRESSTEX Data Binder with Storage Hooks, Light Blue, 9 1/2"" X 11""",Los Angeles,California,West,2,10,0,4,1,0,7,12,0,0,0
+TS-21370,Todd Sumrall,36,6,11891.751,792.7834,15,"3D Systems Cube Printer, 2nd Generation, Magenta",Los Angeles,California,East,5,6,4,9,0,0,6,0,15,0,2
+TS-21430,Tom Stivers,172,5,2054.14,293.4485714285714,7,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Reading,California,West,4,2,1,0,0,3,4,0,7,0,0
+TS-21505,Tony Sayre,11,6,2243.274,160.23385714285715,14,Avery Self-Adhesive Photo Pockets for Polaroid Photos,Cleveland,Colorado,West,4,8,2,1,0,0,13,14,0,0,0
+TS-21610,Troy Staebel,55,7,2820.424,256.4021818181818,11,"Avery Durable Slant Ring Binders, No Labels",Freeport,Illinois,Central,4,7,0,6,0,2,3,11,0,0,0
+TS-21655,Trudy Schmidt,238,5,3368.094,240.57814285714286,14,Belkin 5 Outlet SurgeMaster Power Centers,El Paso,Texas,Central,2,10,2,0,0,5,9,14,0,0,0
+TT-21070,Ted Trevino,31,7,4915.602,351.11442857142856,14,Advantus Plastic Paper Clips,Seattle,Washington,East,4,8,2,2,0,2,10,14,0,0,2
+TT-21220,Thomas Thornton,183,8,1427.044,95.13626666666667,14,Ibico Covers for Plastic or Wire Binding Elements,Houston,Texas,Central,1,12,2,3,4,0,8,15,0,0,2
+TT-21265,Tim Taslimi,406,3,439.5,146.5,3,Acco 6 Outlet Guardian Premium Plus Surge Suppressor,Indianapolis,California,Central,0,3,0,1,0,0,2,0,3,0,1
+TT-21460,Tonja Turnell,12,7,5364.808,383.20057142857144,14,Avery 497,Richmond,Indiana,Central,4,6,4,0,0,5,9,0,0,14,2
+TW-21025,Tamara Willingham,64,7,5278.826,439.9021666666667,12,Belkin 7 Outlet SurgeMaster Surge Protector with Phone Protection,Seattle,Washington,West,4,7,1,2,0,5,5,0,0,12,2
+TZ-21580,Tracy Zic,35,4,1707.286,189.69844444444445,9,AT&T 1070 Corded Phone,Los Angeles,California,West,2,4,3,0,0,3,6,9,0,0,0
+VB-21745,Victoria Brennan,54,6,2005.596,200.5596,10,Advantus T-Pin Paper Clips,San Antonio,Texas,Central,1,9,0,3,1,0,6,0,10,0,0
+VD-21670,Valerie Dominguez,581,6,6442.254,402.640875,16,Avoid Verbal Orders Carbonless Minifold Book,Pleasant Grove,Utah,West,3,8,5,0,0,6,10,16,0,0,1
+VF-21715,Vicky Freymann,13,5,847.944,77.08581818181818,11,Acme Kleen Earth Office Shears,Seattle,California,West,2,9,0,0,0,2,9,0,0,11,0
+VG-21790,Vivek Gonzalez,154,6,846.01,105.75125,8,Acme Office Executive Series Stainless Steel Trimmers,San Francisco,California,West,3,4,1,2,0,1,5,8,0,0,0
+VG-21805,Vivek Grady,491,4,418.432,83.6864,5,"Binney & Smith inkTank Erasable Pocket Highlighter, Chisel Tip, Yellow",Philadelphia,Pennsylvania,Central,0,4,1,1,0,0,4,0,5,0,1
+VM-21685,Valerie Mitchum,54,7,2454.866,204.57216666666667,12,"Brites Rubber Bands, 1 1/2 oz. Box",Seattle,Washington,West,0,8,4,2,2,5,3,0,0,12,0
+VM-21835,Vivian Mathis,117,5,380.69,47.58625,8,"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",Boca Raton,California,East,0,5,3,2,3,1,2,8,0,0,0
+VP-21730,Victor Preis,30,3,993.9019999999999,198.7804,5,Durable Pressboard Binders,New York City,New York,East,0,4,1,0,0,0,5,0,0,5,0
+VP-21760,Victoria Pisteka,75,7,3360.526,240.03757142857143,14,AmazonBasics 3-Button USB Wired Mouse,Columbus,Ohio,East,5,6,3,8,0,0,6,0,14,0,2
+VS-21820,Vivek Sundaresam,221,4,1055.981,131.997625,8,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",Raleigh,North Carolina,Central,3,4,1,0,0,2,6,8,0,0,0
+VT-21700,Valerie Takahito,999,2,1736.596,192.9551111111111,9,Bionaire 99.97% HEPA Air Cleaner,Philadelphia,Pennsylvania,East,3,4,2,0,0,0,9,0,0,9,1
+VW-21775,Victoria Wilson,28,10,6134.0380000000005,340.77988888888893,18,"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",Medina,California,East,4,8,6,3,0,4,11,0,18,0,2
+WB-21850,William Brown,20,10,6129.71,175.13457142857143,34,Fellowes 8 Outlet Superior Workstation Surge Protector,Anaheim,California,West,5,22,8,6,11,0,18,35,0,0,2
+XP-21865,Xylona Preis,43,11,2374.658,84.80921428571428,28,"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",Los Angeles,California,West,4,21,3,2,0,3,23,28,0,0,2
+YC-21895,Yoseph Carroll,4,5,5454.35,681.79375,8,AT&T CL83451 4-Handset Telephone,Newark,Delaware,Central,1,5,2,2,1,0,5,0,8,0,0
+YS-21880,Yana Sorensen,9,8,6720.4439999999995,560.0369999999999,11,Letter Size Cart,Seattle,California,West,3,8,1,1,0,0,11,0,12,0,2
+ZC-21910,Zuschuss Carroll,54,13,8025.706999999999,258.8937741935484,31,"#10 White Business Envelopes,4 1/8 x 9 1/2",Houston,Texas,West,8,17,6,4,0,1,26,31,0,0,2
+ZD-21925,Zuschuss Donatelli,202,5,1493.944,165.99377777777778,9,Cisco SPA 501G IP Phone,San Francisco,California,West,2,4,3,1,2,3,3,9,0,0,0
